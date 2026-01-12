@@ -131,6 +131,7 @@ namespace kbTools
                     foreach (string filePath in filePaths)
                     {
                         Console.WriteLine(filePath);
+                        ReNumbering(filePath);
                     }
 
                 }
@@ -247,7 +248,40 @@ namespace kbTools
         }
 
 
+        private void ReNumbering(string FilePath)
+        {
+            int iPos = 0;
+            int iMaxNumber = 0;
+            int iLength = 0;
 
+            string[] files = Directory.GetFiles(FilePath, "*.*");
+            string newFile = string.Empty;
+            
+            foreach(string file in files)
+            {
+                newFile = file.Substring(file.LastIndexOf("\\")+1, file.Length - file.LastIndexOf("\\")-1);
+                iPos = newFile.IndexOf(" ");
+                int iNumber = int.Parse(newFile.Substring(0, iPos));
+                if (iNumber > iMaxNumber) iMaxNumber = iNumber;
+            }
+
+            iLength = iMaxNumber.ToString().Length;
+
+            foreach(string file in files)
+            {
+                string NewName = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
+                iPos = NewName.IndexOf(" ");
+                string iNumber = NewName.Substring(0, iPos);
+                while (iLength > iNumber.ToString().Length)
+                {
+                    NewName = "0" + NewName;
+                    iPos = NewName.IndexOf(" ");
+                    iNumber = NewName.Substring(0, iPos);
+                }
+                Console.WriteLine(file + " --> " + FilePath + "\\" + NewName);
+                File.Move(file, FilePath + "\\" + NewName);
+            }
+        }
 
     }
 
