@@ -1,26 +1,31 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Net;
-using System.Net.Http;
-using System.Net.Http.Headers;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Text.Json;
 using System.IO;
 using System.IO.Hashing;
+using log4net.Config;
+using log4net;
+using System.Reflection;
 
 namespace kbTools
 {
     public partial class Form1 : Form
     {
+        private static readonly ILog log = LogManager.GetLogger(typeof(Form));
+
         public Form1()
         {
             InitializeComponent();
-        }        
+
+            var logRepository = LogManager.GetRepository(Assembly.GetEntryAssembly());
+            XmlConfigurator.Configure(logRepository, new FileInfo("log4net.config"));
+
+        }
 
         private void Form1_DragEnter(object sender, DragEventArgs e)
         {
-            Console.WriteLine("OnDragEnter Form");
+            log.Info("OnDragEnter Form");
 
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
                 e.Effect = DragDropEffects.Copy;
@@ -30,7 +35,7 @@ namespace kbTools
 
         private void panel1_DragEnter(object sender, DragEventArgs e)
         {
-            Console.WriteLine("OnDragEnter Panel1");
+            log.Info("OnDragEnter Panel1");
 
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
                 e.Effect = DragDropEffects.Copy;
@@ -47,7 +52,7 @@ namespace kbTools
                 {
                     foreach (string filePath in filePaths)
                     {
-                        Console.WriteLine(filePath);
+                        log.Info("Clean Filename:" + filePath);
                         CleanName(filePath);
                     }
                 }
@@ -56,7 +61,7 @@ namespace kbTools
 
         private void panel2_DragEnter(object sender, DragEventArgs e)
         {
-            Console.WriteLine("OnDragEnter Panel2");
+            log.Info("OnDragEnter Panel2");
 
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
                 e.Effect = DragDropEffects.Copy;
@@ -74,7 +79,6 @@ namespace kbTools
                 {
                     foreach (string filePath in filePaths)
                     {
-                        Console.WriteLine(filePath);
                         RenameMonth(filePath);
                     }
                         
@@ -85,7 +89,7 @@ namespace kbTools
 
         private void panel3_DragEnter(object sender, DragEventArgs e)
         {
-            Console.WriteLine("OnDragEnter Panel3");
+            log.Info("OnDragEnter Panel3");
 
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
                 e.Effect = DragDropEffects.Copy;
@@ -103,8 +107,8 @@ namespace kbTools
                 {
                     foreach (string filePath in filePaths)
                     {
+                        log.Info("File to Addm Music extension:" + filePath);
                         AddMusicExtension(filePath);
-                        Console.WriteLine(filePath); 
                     }
                         
                 }
@@ -114,7 +118,7 @@ namespace kbTools
 
         private void panel4_DragEnter(object sender, DragEventArgs e)
         {
-            Console.WriteLine("OnDragEnter Panel4");
+            log.Info("OnDragEnter Panel4");
 
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
                 e.Effect = DragDropEffects.Copy;
@@ -131,7 +135,7 @@ namespace kbTools
                 {
                     foreach (string filePath in filePaths)
                     {
-                        Console.WriteLine(filePath);
+                        log.Info("Folder to renumering files:" + filePath);
                         ReNumbering(filePath);
                     }
 
@@ -161,26 +165,21 @@ namespace kbTools
 
             foreach (tag mytag in tags)
             {
-                //Console.WriteLine(mytag.id_tag + " <" + mytag.input_tag + "> <" + mytag.output_tag + ">");
                 if (oldName.Contains(mytag.input_tag))
                 {
                     oldName = oldName.Replace(mytag.input_tag, mytag.output_tag);
-                    Console.WriteLine(mytag.id_tag + " <" + mytag.input_tag + "> <" + mytag.output_tag + ">" + " --> " + oldName);
                 }
 
             }
             if (!oldName.Equals(origName))
             {
-                Console.WriteLine(Filename + " --> " + oldPath + "\\" + oldName);
                 if (File.Exists(Filename))
                 {
                     File.Move(Filename, oldPath + "\\" + oldName);
-                    Console.WriteLine("rename file");
                 }
                 else
                 {
                     Directory.Move(Filename, oldPath + "\\" + oldName);
-                    Console.WriteLine("Rename Folder");
                 }
             }
 
@@ -208,7 +207,6 @@ namespace kbTools
                     newName = newName.Replace(mymonth.name_month + " ", "");
                     string sExtension = "-" + mymonth.pos_month + newName.Substring(newName.LastIndexOf("."), Filename.Length - Filename.LastIndexOf("."));
                     newName = newName.Replace(newName.Substring(newName.LastIndexOf("."), Filename.Length - Filename.LastIndexOf(".")), sExtension);
-                    Console.WriteLine(Filename + " --> " + origPath + newName);
                     File.Move(Filename, origPath + newName);
                 }
             }
@@ -278,7 +276,6 @@ namespace kbTools
                     iPos = NewName.IndexOf(" ");
                     iNumber = NewName.Substring(0, iPos);
                 }
-                Console.WriteLine(file + " --> " + FilePath + "\\" + NewName);
                 File.Move(file, FilePath + "\\" + NewName);
             }
         }
@@ -348,8 +345,16 @@ namespace kbTools
                 {
                     if (iCRC.ToString("X") == hexa.valueHexa)
                     {
-                        Console.WriteLine("File to Erase:" + file);
-                        File.Delete(file);
+                        log.Info("File to Erase:" + file);
+                        try
+                        {
+                            File.Delete(file);
+                        }
+                        catch (Exception ex)
+                        {
+                            log.Fatal("Error Deleteing File:" + file + " (" + ex.Message + ")");
+                        }
+                        
                         break;
                     }
                 }

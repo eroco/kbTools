@@ -58,3 +58,7 @@ E:\Source\repos\kbTools\kbTools\obj\Release\kbTools.exe
 E:\Source\repos\kbTools\kbTools\obj\Release\kbTools.pdb
 E:\Source\repos\kbTools\kbTools\bin\Release\System.IO.Hashing.dll
 E:\Source\repos\kbTools\kbTools\bin\Release\System.IO.Hashing.xml
+E:\Source\repos\kbTools\kbTools\bin\Release\log4net.dll
+E:\Source\repos\kbTools\kbTools\bin\Release\log4net.pdb
+E:\Source\repos\kbTools\kbTools\bin\Release\log4net.xml
+E:\Source\repos\kbTools\kbTools\bin\Release\log4net.config

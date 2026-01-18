@@ -30,8 +30,10 @@ C:\Users\eroco\source\dotnet\kbTools\kbTools\obj\Debug\kbTools.csproj.AssemblyRe
 E:\Source\repos\kbTools\kbTools\bin\Debug\kbTools.exe.config
 E:\Source\repos\kbTools\kbTools\bin\Debug\kbTools.exe
 E:\Source\repos\kbTools\kbTools\bin\Debug\kbTools.pdb
+E:\Source\repos\kbTools\kbTools\bin\Debug\log4net.dll
 E:\Source\repos\kbTools\kbTools\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.Buffers.dll
+E:\Source\repos\kbTools\kbTools\bin\Debug\System.IO.Hashing.dll
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.IO.Pipelines.dll
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.Memory.dll
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.Numerics.Vectors.dll
@@ -39,8 +41,11 @@ E:\Source\repos\kbTools\kbTools\bin\Debug\System.Runtime.CompilerServices.Unsafe
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.Text.Encodings.Web.dll
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.Text.Json.dll
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Source\repos\kbTools\kbTools\bin\Debug\log4net.pdb
+E:\Source\repos\kbTools\kbTools\bin\Debug\log4net.xml
 E:\Source\repos\kbTools\kbTools\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.Buffers.xml
+E:\Source\repos\kbTools\kbTools\bin\Debug\System.IO.Hashing.xml
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.IO.Pipelines.xml
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.Memory.xml
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.Numerics.Vectors.xml
@@ -48,7 +53,6 @@ E:\Source\repos\kbTools\kbTools\bin\Debug\System.Runtime.CompilerServices.Unsafe
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.Text.Encodings.Web.xml
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.Text.Json.xml
 E:\Source\repos\kbTools\kbTools\bin\Debug\System.Threading.Tasks.Extensions.xml
-E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.csprojAssemblyReference.cache
 E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.Form1.resources
 E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.Properties.Resources.resources
 E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.csproj.GenerateResource.cache
@@ -56,5 +60,5 @@ E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.csproj.CoreCompileInputs.cache
 E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.csproj.CopyComplete
 E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.exe
 E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.pdb
-E:\Source\repos\kbTools\kbTools\bin\Debug\System.IO.Hashing.dll
-E:\Source\repos\kbTools\kbTools\bin\Debug\System.IO.Hashing.xml
+E:\Source\repos\kbTools\kbTools\bin\Debug\log4net.config
+E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.csprojAssemblyReference.cache
