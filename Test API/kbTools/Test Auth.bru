@@ -1,0 +1,16 @@
+meta {
+  name: Test Auth
+  type: http
+  seq: 5
+}
+
+get {
+  url: http://api_kbtools/api_new.php
+  body: none
+  auth: basic
+}
+
+auth:basic {
+  username: apiuser
+  password: apipassword123
+}

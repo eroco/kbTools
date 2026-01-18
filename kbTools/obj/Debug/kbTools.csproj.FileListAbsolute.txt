@@ -56,3 +56,5 @@ E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.csproj.CoreCompileInputs.cache
 E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.csproj.CopyComplete
 E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.exe
 E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.pdb
+E:\Source\repos\kbTools\kbTools\bin\Debug\System.IO.Hashing.dll
+E:\Source\repos\kbTools\kbTools\bin\Debug\System.IO.Hashing.xml

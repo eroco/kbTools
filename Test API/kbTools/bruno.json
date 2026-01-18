@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "kbTools",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

@@ -1,0 +1,13 @@
+E:\Source\repos\kbTools\UnitTestProject_kbTools\bin\Release\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Source\repos\kbTools\UnitTestProject_kbTools\bin\Release\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Source\repos\kbTools\UnitTestProject_kbTools\bin\Release\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Source\repos\kbTools\UnitTestProject_kbTools\bin\Release\netcoreapp1.1\UnitTestProject_kbTools.deps.json
+E:\Source\repos\kbTools\UnitTestProject_kbTools\bin\Release\netcoreapp1.1\UnitTestProject_kbTools.runtimeconfig.json
+E:\Source\repos\kbTools\UnitTestProject_kbTools\bin\Release\netcoreapp1.1\UnitTestProject_kbTools.runtimeconfig.dev.json
+E:\Source\repos\kbTools\UnitTestProject_kbTools\bin\Release\netcoreapp1.1\UnitTestProject_kbTools.dll
+E:\Source\repos\kbTools\UnitTestProject_kbTools\bin\Release\netcoreapp1.1\UnitTestProject_kbTools.pdb
+E:\Source\repos\kbTools\UnitTestProject_kbTools\obj\Release\netcoreapp1.1\UnitTestProject_kbTools.csprojAssemblyReference.cache
+E:\Source\repos\kbTools\UnitTestProject_kbTools\obj\Release\netcoreapp1.1\UnitTestProject_kbTools.csproj.CoreCompileInputs.cache
+E:\Source\repos\kbTools\UnitTestProject_kbTools\obj\Release\netcoreapp1.1\UnitTestProject_kbTools.AssemblyInfo.cs
+E:\Source\repos\kbTools\UnitTestProject_kbTools\obj\Release\netcoreapp1.1\UnitTestProject_kbTools.dll
+E:\Source\repos\kbTools\UnitTestProject_kbTools\obj\Release\netcoreapp1.1\UnitTestProject_kbTools.pdb

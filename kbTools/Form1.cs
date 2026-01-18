@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Text.Json;
 using System.IO;
+using System.IO.Hashing;
 
 namespace kbTools
 {
@@ -247,7 +248,6 @@ namespace kbTools
             }
         }
 
-
         private void ReNumbering(string FilePath)
         {
             int iPos = 0;
@@ -283,6 +283,84 @@ namespace kbTools
             }
         }
 
+        private static uint CalculateFileCrc32(string filePath)
+        {
+            // Asegúrate de que el archivo existe
+            if (!File.Exists(filePath))
+            {
+                throw new FileNotFoundException($"El archivo no se encontró: {filePath}");
+            }
+
+            // Crea una instancia de Crc32
+            Crc32 crc32 = new Crc32();
+
+            // Abre el archivo para lectura
+            using (FileStream stream = File.OpenRead(filePath))
+            {
+                // Calcula el hash (CRC) del flujo de datos
+                // Para versiones más antiguas de .NET, puede que necesites usar un buffer
+                // o una implementación personalizada como la de Stack Overflow [13].
+                crc32.Append(stream);
+
+                return crc32.GetCurrentHashAsUInt32();
+                //Span<byte> hash = crc32.GetHashAndReset();
+
+                // Convierte los bytes del hash a un entero sin signo (uint)
+                // Asegúrate del orden de bytes (Little Endian es común para CRC32) [10].
+                //return BitConverter.ToInt64(hash);
+            }
+        }
+
+        private void btnCRC_Click(object sender, EventArgs e)
+        {
+            RESTClient rClient = new RESTClient();
+
+            rClient.endPoint = "http://api_kbtools/hexa.php";
+
+            string sJSON = string.Empty;
+
+            sJSON = rClient.makeRequest();
+
+            List<Hexa> ListhexaValues = JsonSerializer.Deserialize<List<Hexa>>(sJSON);
+
+            folderBrowserDialog.Description = "Select folder to Clean Trash";
+            folderBrowserDialog.ShowNewFolderButton = false;
+
+            DialogResult result = folderBrowserDialog.ShowDialog();
+
+            if (result == DialogResult.OK)
+            {
+                string FilePath = folderBrowserDialog.SelectedPath;
+                CleanPath(FilePath, ListhexaValues);
+            }
+
+
+        }
+
+        private void CleanPath(string FilePath, List<Hexa> ListHexaValues)
+        {
+            string[] files = Directory.GetFiles(FilePath, "*.*");
+
+            foreach (string file in files)
+            {
+                uint iCRC = CalculateFileCrc32(file);
+                foreach (Hexa hexa in ListHexaValues)
+                {
+                    if (iCRC.ToString("X") == hexa.valueHexa)
+                    {
+                        Console.WriteLine("File to Erase:" + file);
+                        File.Delete(file);
+                        break;
+                    }
+                }
+            }
+
+            string[] folders = Directory.GetDirectories(FilePath);
+            foreach (string folder in folders)
+            {
+                CleanPath(folder, ListHexaValues);
+            }
+        }
     }
 
     public class tag
@@ -303,5 +381,11 @@ namespace kbTools
     {
         public string id_music { get; set; }
         public string ext_music { get; set; }
+    }
+
+    public class Hexa
+    {
+        public string idhexa { get; set; }
+        public string valueHexa { get; set; }
     }
 }

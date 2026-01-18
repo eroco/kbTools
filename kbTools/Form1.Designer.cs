@@ -34,6 +34,8 @@ namespace kbTools
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.cmdExit = new System.Windows.Forms.Button();
+            this.btnCRC = new System.Windows.Forms.Button();
+            this.folderBrowserDialog = new System.Windows.Forms.FolderBrowserDialog();
             this.SuspendLayout();
             // 
             // panel3
@@ -90,7 +92,7 @@ namespace kbTools
             // 
             // cmdExit
             // 
-            this.cmdExit.Location = new System.Drawing.Point(663, 42);
+            this.cmdExit.Location = new System.Drawing.Point(663, 128);
             this.cmdExit.Name = "cmdExit";
             this.cmdExit.Size = new System.Drawing.Size(75, 23);
             this.cmdExit.TabIndex = 4;
@@ -98,12 +100,23 @@ namespace kbTools
             this.cmdExit.UseVisualStyleBackColor = true;
             this.cmdExit.Click += new System.EventHandler(this.cmdExit_Click);
             // 
+            // btnCRC
+            // 
+            this.btnCRC.Location = new System.Drawing.Point(663, 86);
+            this.btnCRC.Name = "btnCRC";
+            this.btnCRC.Size = new System.Drawing.Size(75, 23);
+            this.btnCRC.TabIndex = 5;
+            this.btnCRC.Text = "CRC";
+            this.btnCRC.UseVisualStyleBackColor = true;
+            this.btnCRC.Click += new System.EventHandler(this.btnCRC_Click);
+            // 
             // Form1
             // 
             this.AllowDrop = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(750, 186);
+            this.Controls.Add(this.btnCRC);
             this.Controls.Add(this.cmdExit);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel3);
@@ -123,6 +136,8 @@ namespace kbTools
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.Button cmdExit;
+        private System.Windows.Forms.Button btnCRC;
+        private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog;
     }
 }
 
