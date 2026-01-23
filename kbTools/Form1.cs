@@ -7,6 +7,7 @@ using System.IO.Hashing;
 using log4net.Config;
 using log4net;
 using System.Reflection;
+using System.Threading;
 
 namespace kbTools
 {
@@ -20,7 +21,8 @@ namespace kbTools
 
             var logRepository = LogManager.GetRepository(Assembly.GetEntryAssembly());
             XmlConfigurator.Configure(logRepository, new FileInfo("log4net.config"));
-
+            SetStatusBarText("Ready");
+            
         }
 
         private void Form1_DragEnter(object sender, DragEventArgs e)
@@ -50,12 +52,14 @@ namespace kbTools
                 string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
                 if (filePaths != null && filePaths.Length > 0)
                 {
+                    SetStatusBarText("Cleaning");
                     foreach (string filePath in filePaths)
                     {
                         log.Info("Clean Filename:" + filePath);
                         CleanName(filePath);
                     }
                 }
+                SetStatusBarText("Ready");
             }
         }
 
@@ -77,12 +81,14 @@ namespace kbTools
                 string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
                 if (filePaths != null && filePaths.Length > 0)
                 {
+                    SetStatusBarText("Fixing Month");
                     foreach (string filePath in filePaths)
                     {
                         RenameMonth(filePath);
                     }
                         
                 }
+                SetStatusBarText("Ready");
             }
 
         }
@@ -105,13 +111,15 @@ namespace kbTools
                 string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
                 if (filePaths != null && filePaths.Length > 0)
                 {
+                    SetStatusBarText("Add music extension to folder name");
                     foreach (string filePath in filePaths)
                     {
-                        log.Info("File to Addm Music extension:" + filePath);
+                        log.Info("File to Add Music extension:" + filePath);
                         AddMusicExtension(filePath);
                     }
                         
                 }
+                SetStatusBarText("Ready");
             }
         }
 
@@ -133,6 +141,7 @@ namespace kbTools
                 string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
                 if (filePaths != null && filePaths.Length > 0)
                 {
+                    SetStatusBarText("Renumbering file in folder");
                     foreach (string filePath in filePaths)
                     {
                         log.Info("Folder to renumering files:" + filePath);
@@ -140,6 +149,7 @@ namespace kbTools
                     }
 
                 }
+                SetStatusBarText("Ready");
             }
         }
 
@@ -327,8 +337,10 @@ namespace kbTools
 
             if (result == DialogResult.OK)
             {
+                SetStatusBarText("Cleaning trash of folder");
                 string FilePath = folderBrowserDialog.SelectedPath;
                 CleanPath(FilePath, ListhexaValues);
+                SetStatusBarText("Ready");
             }
 
 
@@ -341,6 +353,7 @@ namespace kbTools
             foreach (string file in files)
             {
                 uint iCRC = CalculateFileCrc32(file);
+                Console.WriteLine("File:" + file + "[" + iCRC.ToString("X") + "]");
                 foreach (Hexa hexa in ListHexaValues)
                 {
                     if (iCRC.ToString("X") == hexa.valueHexa)
@@ -364,6 +377,24 @@ namespace kbTools
             foreach (string folder in folders)
             {
                 CleanPath(folder, ListHexaValues);
+            }
+        }
+
+        private void SetStatusBarText(string strText)
+        {
+            if (InvokeRequired)
+            {
+                this.Invoke((MethodInvoker)delegate {
+                    SetStatusBarText(strText);
+                    statusStrip.Refresh();
+                    Thread.Sleep(1150);
+                });
+            }
+            else
+            {
+                toolStripStatusLabel.Text = strText;
+                statusStrip.Refresh();
+                Thread.Sleep(1150);
             }
         }
     }
