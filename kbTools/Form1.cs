@@ -153,6 +153,57 @@ namespace kbTools
             }
         }
 
+        private void panel5_DragEnter(object sender, DragEventArgs e)
+        {
+            log.Info("OnDragEnter CRC");
+
+            if (e.Data.GetDataPresent(DataFormats.FileDrop))
+                e.Effect = DragDropEffects.Copy;
+            else
+                e.Effect = DragDropEffects.None;
+        }
+
+
+        private void panel5_DragDrop(object sender, DragEventArgs e)
+        {
+            if (e.Data.GetDataPresent(DataFormats.FileDrop))
+            {
+                string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
+                if (filePaths != null && filePaths.Length > 0)
+                {
+                    SetStatusBarText("Cleaning folder");
+                    foreach (string filePath in filePaths)
+                    {
+                        log.Info("Folder to clean:" + filePath);
+
+                        RESTClient rClient = new RESTClient();
+
+                        rClient.endPoint = "http://api_kbtools/hexa.php";
+
+                        string sJSON = string.Empty;
+
+                        sJSON = rClient.makeRequest();
+
+                        List<Hexa> ListhexaValues = JsonSerializer.Deserialize<List<Hexa>>(sJSON);
+
+                        CleanPath(filePath, ListhexaValues);
+                    }
+
+                }
+                SetStatusBarText("Ready");
+            }
+        }
+
+        private void btnCRC_DragEnter(object sender, DragEventArgs e)
+        {
+            
+        }
+
+        private void btnCRC_DragDrop(object sender, DragEventArgs e)
+        {
+            
+        }
+
         private void cmdExit_Click(object sender, EventArgs e)
         {
             Close();
@@ -397,6 +448,8 @@ namespace kbTools
                 Thread.Sleep(1150);
             }
         }
+
+        
     }
 
     public class tag

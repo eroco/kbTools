@@ -29,17 +29,82 @@ namespace kbTools
         /// </summary>
         private void InitializeComponent()
         {
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.panel4 = new System.Windows.Forms.Panel();
             this.cmdExit = new System.Windows.Forms.Button();
             this.btnCRC = new System.Windows.Forms.Button();
             this.folderBrowserDialog = new System.Windows.Forms.FolderBrowserDialog();
             this.statusStrip = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel1 = new System.Windows.Forms.Panel();
             this.statusStrip.SuspendLayout();
             this.SuspendLayout();
+            // 
+            // cmdExit
+            // 
+            this.cmdExit.Location = new System.Drawing.Point(821, 128);
+            this.cmdExit.Name = "cmdExit";
+            this.cmdExit.Size = new System.Drawing.Size(75, 23);
+            this.cmdExit.TabIndex = 4;
+            this.cmdExit.Text = "Exit";
+            this.cmdExit.UseVisualStyleBackColor = true;
+            this.cmdExit.Click += new System.EventHandler(this.cmdExit_Click);
+            // 
+            // btnCRC
+            // 
+            this.btnCRC.Location = new System.Drawing.Point(821, 86);
+            this.btnCRC.Name = "btnCRC";
+            this.btnCRC.Size = new System.Drawing.Size(75, 23);
+            this.btnCRC.TabIndex = 5;
+            this.btnCRC.Text = "CRC";
+            this.btnCRC.UseVisualStyleBackColor = true;
+            this.btnCRC.Click += new System.EventHandler(this.btnCRC_Click);
+            this.btnCRC.DragDrop += new System.Windows.Forms.DragEventHandler(this.btnCRC_DragDrop);
+            this.btnCRC.DragEnter += new System.Windows.Forms.DragEventHandler(this.btnCRC_DragEnter);
+            // 
+            // statusStrip
+            // 
+            this.statusStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripStatusLabel});
+            this.statusStrip.Location = new System.Drawing.Point(0, 164);
+            this.statusStrip.Name = "statusStrip";
+            this.statusStrip.Size = new System.Drawing.Size(913, 22);
+            this.statusStrip.TabIndex = 6;
+            this.statusStrip.Text = "statusStrip1";
+            // 
+            // toolStripStatusLabel
+            // 
+            this.toolStripStatusLabel.Name = "toolStripStatusLabel";
+            this.toolStripStatusLabel.Size = new System.Drawing.Size(39, 17);
+            this.toolStripStatusLabel.Text = "Ready";
+            // 
+            // panel5
+            // 
+            this.panel5.AllowDrop = true;
+            this.panel5.BackgroundImage = global::kbTools.Properties.Resources.crc32_400;
+            this.panel5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel5.Location = new System.Drawing.Point(668, 24);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(128, 128);
+            this.panel5.TabIndex = 7;
+            this.panel5.DragDrop += new System.Windows.Forms.DragEventHandler(this.panel5_DragDrop);
+            this.panel5.DragEnter += new System.Windows.Forms.DragEventHandler(this.panel5_DragEnter);
+            // 
+            // panel4
+            // 
+            this.panel4.AllowDrop = true;
+            this.panel4.BackgroundImage = global::kbTools.Properties.Resources.images;
+            this.panel4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel4.Location = new System.Drawing.Point(512, 23);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(128, 128);
+            this.panel4.TabIndex = 3;
+            this.panel4.DragDrop += new System.Windows.Forms.DragEventHandler(this.panel4_DragDrop);
+            this.panel4.DragEnter += new System.Windows.Forms.DragEventHandler(this.panel4_DragEnter);
             // 
             // panel3
             // 
@@ -80,61 +145,13 @@ namespace kbTools
             this.panel1.DragDrop += new System.Windows.Forms.DragEventHandler(this.panel1_DragDrop);
             this.panel1.DragEnter += new System.Windows.Forms.DragEventHandler(this.panel1_DragEnter);
             // 
-            // panel4
-            // 
-            this.panel4.AllowDrop = true;
-            this.panel4.BackgroundImage = global::kbTools.Properties.Resources.images;
-            this.panel4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel4.Location = new System.Drawing.Point(512, 23);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(128, 128);
-            this.panel4.TabIndex = 3;
-            this.panel4.DragDrop += new System.Windows.Forms.DragEventHandler(this.panel4_DragDrop);
-            this.panel4.DragEnter += new System.Windows.Forms.DragEventHandler(this.panel4_DragEnter);
-            // 
-            // cmdExit
-            // 
-            this.cmdExit.Location = new System.Drawing.Point(663, 128);
-            this.cmdExit.Name = "cmdExit";
-            this.cmdExit.Size = new System.Drawing.Size(75, 23);
-            this.cmdExit.TabIndex = 4;
-            this.cmdExit.Text = "Exit";
-            this.cmdExit.UseVisualStyleBackColor = true;
-            this.cmdExit.Click += new System.EventHandler(this.cmdExit_Click);
-            // 
-            // btnCRC
-            // 
-            this.btnCRC.Location = new System.Drawing.Point(663, 86);
-            this.btnCRC.Name = "btnCRC";
-            this.btnCRC.Size = new System.Drawing.Size(75, 23);
-            this.btnCRC.TabIndex = 5;
-            this.btnCRC.Text = "CRC";
-            this.btnCRC.UseVisualStyleBackColor = true;
-            this.btnCRC.Click += new System.EventHandler(this.btnCRC_Click);
-            // 
-            // statusStrip
-            // 
-            this.statusStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripStatusLabel});
-            this.statusStrip.Location = new System.Drawing.Point(0, 164);
-            this.statusStrip.Name = "statusStrip";
-            this.statusStrip.Size = new System.Drawing.Size(750, 22);
-            this.statusStrip.TabIndex = 6;
-            this.statusStrip.Text = "statusStrip1";
-            // 
-            // toolStripStatusLabel
-            // 
-            this.toolStripStatusLabel.Name = "toolStripStatusLabel";
-            this.toolStripStatusLabel.Size = new System.Drawing.Size(39, 17);
-            this.toolStripStatusLabel.Text = "Ready";
-            // 
             // Form1
             // 
             this.AllowDrop = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(750, 186);
+            this.ClientSize = new System.Drawing.Size(913, 186);
+            this.Controls.Add(this.panel5);
             this.Controls.Add(this.statusStrip);
             this.Controls.Add(this.btnCRC);
             this.Controls.Add(this.cmdExit);
@@ -163,6 +180,7 @@ namespace kbTools
         private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog;
         private System.Windows.Forms.StatusStrip statusStrip;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel;
+        private System.Windows.Forms.Panel panel5;
     }
 }
 
