@@ -117,13 +117,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="folderBrowserDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="statusStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>180, 17</value>
-  </metadata>
-  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>289, 17</value>
-  </metadata>
+  <data name="CorrigiendoMeses" xml:space="preserve">
+    <value>Corrigiendo Meses</value>
+  </data>
+  <data name="ExtensionMusica" xml:space="preserve">
+    <value>Agregando extension archivo de música al nombre de la carpeta</value>
+  </data>
+  <data name="Limpieza" xml:space="preserve">
+    <value>Limpieza</value>
+  </data>
+  <data name="LimpiezaCarpetas" xml:space="preserve">
+    <value>Limpiando Carpetas</value>
+  </data>
+  <data name="Listo" xml:space="preserve">
+    <value>Listo</value>
+  </data>
+  <data name="MenuArchivo" xml:space="preserve">
+    <value>Archivo</value>
+  </data>
+  <data name="MenuEspañol" xml:space="preserve">
+    <value>Español</value>
+  </data>
+  <data name="MenuIdioma" xml:space="preserve">
+    <value>Idioma</value>
+  </data>
+  <data name="MenuIngles" xml:space="preserve">
+    <value>Ingles</value>
+  </data>
+  <data name="MenuSalir" xml:space="preserve">
+    <value>Salir</value>
+  </data>
+  <data name="Ocupado" xml:space="preserve">
+    <value>Ocupado</value>
+  </data>
+  <data name="Renumeracion" xml:space="preserve">
+    <value>Renumerando archivos en una carpeta</value>
+  </data>
+  <data name="Trabajando" xml:space="preserve">
+    <value>Trabajando</value>
+  </data>
 </root>

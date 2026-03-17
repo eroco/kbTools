@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Windows.Forms;
 using System.Text.Json;
 using System.IO;
@@ -8,12 +9,15 @@ using log4net.Config;
 using log4net;
 using System.Reflection;
 using System.Threading;
+using System.Globalization;
 
 namespace kbTools
 {
     public partial class Form1 : Form
     {
         private static readonly ILog log = LogManager.GetLogger(typeof(Form));
+        private int progessbar = 0;
+        string Language = ConfigurationManager.AppSettings["Language"];
 
         public Form1()
         {
@@ -21,9 +25,14 @@ namespace kbTools
 
             var logRepository = LogManager.GetRepository(Assembly.GetEntryAssembly());
             XmlConfigurator.Configure(logRepository, new FileInfo("log4net.config"));
-            SetStatusBarText("Ready");
-            
+
+            Thread.CurrentThread.CurrentCulture = new CultureInfo(Language);
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo(Language);
+            SetLanguage();
+
         }
+
+        public delegate void updatebar();
 
         private void Form1_DragEnter(object sender, DragEventArgs e)
         {
@@ -52,14 +61,14 @@ namespace kbTools
                 string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
                 if (filePaths != null && filePaths.Length > 0)
                 {
-                    SetStatusBarText("Cleaning");
+                    SetStatusBarText(Idiomas.Limpieza);
                     foreach (string filePath in filePaths)
                     {
                         log.Info("Clean Filename:" + filePath);
                         CleanName(filePath);
                     }
                 }
-                SetStatusBarText("Ready");
+                SetStatusBarText(Idiomas.Listo);
             }
         }
 
@@ -81,14 +90,14 @@ namespace kbTools
                 string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
                 if (filePaths != null && filePaths.Length > 0)
                 {
-                    SetStatusBarText("Fixing Month");
+                    SetStatusBarText(Idiomas.CorrigiendoMeses);
                     foreach (string filePath in filePaths)
                     {
                         RenameMonth(filePath);
                     }
                         
                 }
-                SetStatusBarText("Ready");
+                SetStatusBarText(Idiomas.Listo);
             }
 
         }
@@ -111,7 +120,7 @@ namespace kbTools
                 string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
                 if (filePaths != null && filePaths.Length > 0)
                 {
-                    SetStatusBarText("Add music extension to folder name");
+                    SetStatusBarText(Idiomas.ExtensionMusica);
                     foreach (string filePath in filePaths)
                     {
                         log.Info("File to Add Music extension:" + filePath);
@@ -119,10 +128,9 @@ namespace kbTools
                     }
                         
                 }
-                SetStatusBarText("Ready");
+                SetStatusBarText(Idiomas.Listo);
             }
         }
-
 
         private void panel4_DragEnter(object sender, DragEventArgs e)
         {
@@ -141,7 +149,7 @@ namespace kbTools
                 string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
                 if (filePaths != null && filePaths.Length > 0)
                 {
-                    SetStatusBarText("Renumbering file in folder");
+                    SetStatusBarText(Idiomas.Renumeracion);
                     foreach (string filePath in filePaths)
                     {
                         log.Info("Folder to renumering files:" + filePath);
@@ -149,7 +157,7 @@ namespace kbTools
                     }
 
                 }
-                SetStatusBarText("Ready");
+                SetStatusBarText(Idiomas.Listo);
             }
         }
 
@@ -163,7 +171,6 @@ namespace kbTools
                 e.Effect = DragDropEffects.None;
         }
 
-
         private void panel5_DragDrop(object sender, DragEventArgs e)
         {
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
@@ -171,7 +178,7 @@ namespace kbTools
                 string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
                 if (filePaths != null && filePaths.Length > 0)
                 {
-                    SetStatusBarText("Cleaning folder");
+                    SetStatusBarText(Idiomas.LimpiezaCarpetas);
                     foreach (string filePath in filePaths)
                     {
                         log.Info("Folder to clean:" + filePath);
@@ -186,22 +193,16 @@ namespace kbTools
 
                         List<Hexa> ListhexaValues = JsonSerializer.Deserialize<List<Hexa>>(sJSON);
 
+                        ProgressBarVisble(true);
                         CleanPath(filePath, ListhexaValues);
+                        ProgressBarVisble(false);
+
                     }
 
                 }
-                SetStatusBarText("Ready");
+                SetStatusBarText(Idiomas.Listo);
+
             }
-        }
-
-        private void btnCRC_DragEnter(object sender, DragEventArgs e)
-        {
-            
-        }
-
-        private void btnCRC_DragDrop(object sender, DragEventArgs e)
-        {
-            
         }
 
         private void cmdExit_Click(object sender, EventArgs e)
@@ -309,16 +310,23 @@ namespace kbTools
 
         private void ReNumbering(string FilePath)
         {
+            ReNumberingFiles(FilePath);
+
+            ReNumberingFolders(FilePath);
+        }
+
+        private void ReNumberingFiles(string FilePath)
+        {
             int iPos = 0;
             int iMaxNumber = 0;
             int iLength = 0;
 
             string[] files = Directory.GetFiles(FilePath, "*.*");
             string newFile = string.Empty;
-            
-            foreach(string file in files)
+
+            foreach (string file in files)
             {
-                newFile = file.Substring(file.LastIndexOf("\\")+1, file.Length - file.LastIndexOf("\\")-1);
+                newFile = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
                 iPos = newFile.IndexOf(" ");
                 int iNumber = int.Parse(newFile.Substring(0, iPos));
                 if (iNumber > iMaxNumber) iMaxNumber = iNumber;
@@ -326,7 +334,7 @@ namespace kbTools
 
             iLength = iMaxNumber.ToString().Length;
 
-            foreach(string file in files)
+            foreach (string file in files)
             {
                 string NewName = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
                 iPos = NewName.IndexOf(" ");
@@ -337,7 +345,43 @@ namespace kbTools
                     iPos = NewName.IndexOf(" ");
                     iNumber = NewName.Substring(0, iPos);
                 }
-                File.Move(file, FilePath + "\\" + NewName);
+                if (file != FilePath + "\\" + NewName)
+                    File.Move(file, FilePath + "\\" + NewName);
+            }
+        }
+
+        private void ReNumberingFolders(string FilePath)
+        {
+            int iPos = 0;
+            int iMaxNumber = 0;
+            int iLength = 0;
+
+            string[] files = Directory.GetDirectories(FilePath, "*.*");
+            string newFile = string.Empty;
+
+            foreach (string file in files)
+            {
+                newFile = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
+                iPos = newFile.IndexOf(" ");
+                int iNumber = int.Parse(newFile.Substring(0, iPos));
+                if (iNumber > iMaxNumber) iMaxNumber = iNumber;
+            }
+
+            iLength = iMaxNumber.ToString().Length;
+
+            foreach (string file in files)
+            {
+                string NewName = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
+                iPos = NewName.IndexOf(" ");
+                string iNumber = NewName.Substring(0, iPos);
+                while (iLength > iNumber.ToString().Length)
+                {
+                    NewName = "0" + NewName;
+                    iPos = NewName.IndexOf(" ");
+                    iNumber = NewName.Substring(0, iPos);
+                }
+                if (file != FilePath + "\\" + NewName)
+                    Directory.Move(file, FilePath + "\\" + NewName);
             }
         }
 
@@ -368,43 +412,21 @@ namespace kbTools
                 //return BitConverter.ToInt64(hash);
             }
         }
-
-        private void btnCRC_Click(object sender, EventArgs e)
-        {
-            RESTClient rClient = new RESTClient();
-
-            rClient.endPoint = "http://api_kbtools/hexa.php";
-
-            string sJSON = string.Empty;
-
-            sJSON = rClient.makeRequest();
-
-            List<Hexa> ListhexaValues = JsonSerializer.Deserialize<List<Hexa>>(sJSON);
-
-            folderBrowserDialog.Description = "Select folder to Clean Trash";
-            folderBrowserDialog.ShowNewFolderButton = false;
-
-            DialogResult result = folderBrowserDialog.ShowDialog();
-
-            if (result == DialogResult.OK)
-            {
-                SetStatusBarText("Cleaning trash of folder");
-                string FilePath = folderBrowserDialog.SelectedPath;
-                CleanPath(FilePath, ListhexaValues);
-                SetStatusBarText("Ready");
-            }
-
-
-        }
-
+  
         private void CleanPath(string FilePath, List<Hexa> ListHexaValues)
         {
             string[] files = Directory.GetFiles(FilePath, "*.*");
 
             foreach (string file in files)
             {
+                ProgressBarSet();
                 uint iCRC = CalculateFileCrc32(file);
-                Console.WriteLine("File:" + file + "[" + iCRC.ToString("X") + "]");
+                if (chkLogCRC32.Checked)
+                {
+                    log.Debug("File:" + file);
+                    log.Debug("http://api_kbtools/addHexa.php?hexa='" + iCRC.ToString("X"));
+                }
+
                 foreach (Hexa hexa in ListHexaValues)
                 {
                     if (iCRC.ToString("X") == hexa.valueHexa)
@@ -449,7 +471,64 @@ namespace kbTools
             }
         }
 
+        private void ProgressBarVisble(bool bVisible)
+        {
+            toolStripProgressBar.Visible = bVisible;
+            toolStripProgressBar.Value = 50;
+            statusStrip.Refresh();
+        }
+
+        private void ProgressBarSet()
+        {
+            progessbar += 10;
+            toolStripProgressBar.Value = progessbar;
+            statusStrip.Refresh();
+            if (progessbar % 100 == 0) progessbar = 0;
+            Thread.Sleep(100);
+        }
         
+        private void SetLanguage()
+        {
+            archivosToolStripMenuItem.Text = Idiomas.MenuArchivo;
+            idiomasToolStripMenuItem.Text = Idiomas.MenuIdioma;
+            españolToolStripMenuItem.Text = Idiomas.MenuEspañol;
+            inglesToolStripMenuItem.Text = Idiomas.MenuIngles;
+            salirToolStripMenuItem.Text = Idiomas.MenuSalir;
+            cmdExit.Text = Idiomas.MenuSalir;
+            switch (Language)
+            {
+                case "sp-CL":
+                    españolToolStripMenuItem.Text = Idiomas.MenuEspañol + " \u2611" ;
+                    break;
+                case "en-US":
+                    inglesToolStripMenuItem.Text = Idiomas.MenuIngles + " \u2611";
+                    break;
+            }
+                
+            SetStatusBarText(Idiomas.Listo);
+        }
+
+        private void españolToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("sp-CL");
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo("sp-CL");
+            Language = "sp-CL";
+
+            SetLanguage();
+        }
+
+        private void inglesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
+            Thread.CurrentThread.CurrentUICulture = new CultureInfo("en-US");
+            Language = "en-US";
+            SetLanguage();
+        }
+
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 
     public class tag

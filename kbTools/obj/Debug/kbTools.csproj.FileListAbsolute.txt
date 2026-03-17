@@ -62,3 +62,7 @@ E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.exe
 E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.pdb
 E:\Source\repos\kbTools\kbTools\bin\Debug\log4net.config
 E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.csprojAssemblyReference.cache
+E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.Idiomas.resources
+E:\Source\repos\kbTools\kbTools\bin\Debug\en-US\kbTools.resources.dll
+E:\Source\repos\kbTools\kbTools\obj\Debug\kbTools.Idiomas.en-US.resources
+E:\Source\repos\kbTools\kbTools\obj\Debug\en-US\kbTools.resources.dll

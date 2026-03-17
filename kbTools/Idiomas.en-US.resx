@@ -117,13 +117,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="folderBrowserDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="statusStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>180, 17</value>
-  </metadata>
-  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>289, 17</value>
-  </metadata>
+  <data name="CorrigiendoMeses" xml:space="preserve">
+    <value>Fixing Months</value>
+  </data>
+  <data name="ExtensionMusica" xml:space="preserve">
+    <value>Add music extension to folder name</value>
+  </data>
+  <data name="Limpieza" xml:space="preserve">
+    <value>Cleaning</value>
+  </data>
+  <data name="LimpiezaCarpetas" xml:space="preserve">
+    <value>Cleaning Folders</value>
+  </data>
+  <data name="Listo" xml:space="preserve">
+    <value>Ready</value>
+  </data>
+  <data name="MenuArchivo" xml:space="preserve">
+    <value>File</value>
+  </data>
+  <data name="MenuEspañol" xml:space="preserve">
+    <value>Spanish</value>
+  </data>
+  <data name="MenuIdioma" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="MenuIngles" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="MenuSalir" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="Ocupado" xml:space="preserve">
+    <value>Busy</value>
+  </data>
+  <data name="Renumeracion" xml:space="preserve">
+    <value>Renumbering files in folder</value>
+  </data>
+  <data name="Trabajando" xml:space="preserve">
+    <value>Working</value>
+  </data>
 </root>
