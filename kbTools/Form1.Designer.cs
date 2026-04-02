@@ -47,6 +47,8 @@ namespace kbTools
             this.inglesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripSeparator();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.btnEmptyRecycleBin = new System.Windows.Forms.Button();
+            this.chkRecursive = new System.Windows.Forms.CheckBox();
             this.statusStrip.SuspendLayout();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -185,34 +187,54 @@ namespace kbTools
             this.españolToolStripMenuItem,
             this.inglesToolStripMenuItem});
             this.idiomasToolStripMenuItem.Name = "idiomasToolStripMenuItem";
-            this.idiomasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.idiomasToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.idiomasToolStripMenuItem.Text = "Idiomas";
             // 
             // españolToolStripMenuItem
             // 
             this.españolToolStripMenuItem.Name = "españolToolStripMenuItem";
-            this.españolToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.españolToolStripMenuItem.Size = new System.Drawing.Size(115, 22);
             this.españolToolStripMenuItem.Text = "Español";
             this.españolToolStripMenuItem.Click += new System.EventHandler(this.españolToolStripMenuItem_Click);
             // 
             // inglesToolStripMenuItem
             // 
             this.inglesToolStripMenuItem.Name = "inglesToolStripMenuItem";
-            this.inglesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.inglesToolStripMenuItem.Size = new System.Drawing.Size(115, 22);
             this.inglesToolStripMenuItem.Text = "Ingles";
             this.inglesToolStripMenuItem.Click += new System.EventHandler(this.inglesToolStripMenuItem_Click);
             // 
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-            this.toolStripMenuItem1.Size = new System.Drawing.Size(177, 6);
+            this.toolStripMenuItem1.Size = new System.Drawing.Size(113, 6);
             // 
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
+            // 
+            // btnEmptyRecycleBin
+            // 
+            this.btnEmptyRecycleBin.Location = new System.Drawing.Point(821, 112);
+            this.btnEmptyRecycleBin.Name = "btnEmptyRecycleBin";
+            this.btnEmptyRecycleBin.Size = new System.Drawing.Size(75, 23);
+            this.btnEmptyRecycleBin.TabIndex = 11;
+            this.btnEmptyRecycleBin.Text = "Empty Bin";
+            this.btnEmptyRecycleBin.UseVisualStyleBackColor = true;
+            this.btnEmptyRecycleBin.Click += new System.EventHandler(this.btnEmptyRecycleBin_Click);
+            // 
+            // chkRecursive
+            // 
+            this.chkRecursive.AutoSize = true;
+            this.chkRecursive.Location = new System.Drawing.Point(49, 170);
+            this.chkRecursive.Name = "chkRecursive";
+            this.chkRecursive.Size = new System.Drawing.Size(74, 17);
+            this.chkRecursive.TabIndex = 12;
+            this.chkRecursive.Text = "Recursive";
+            this.chkRecursive.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -220,6 +242,8 @@ namespace kbTools
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(913, 214);
+            this.Controls.Add(this.chkRecursive);
+            this.Controls.Add(this.btnEmptyRecycleBin);
             this.Controls.Add(this.chkLogCRC32);
             this.Controls.Add(this.panel5);
             this.Controls.Add(this.statusStrip);
@@ -262,6 +286,8 @@ namespace kbTools
         private System.Windows.Forms.ToolStripMenuItem inglesToolStripMenuItem;
         private System.Windows.Forms.ToolStripSeparator toolStripMenuItem1;
         private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
+        private System.Windows.Forms.Button btnEmptyRecycleBin;
+        private System.Windows.Forms.CheckBox chkRecursive;
     }
 }
 

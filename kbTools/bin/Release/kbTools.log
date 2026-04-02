@@ -3017,3 +3017,1295 @@
 2026-03-17 11:43:46,874 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
 2026-03-17 11:43:47,001 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
 2026-03-17 11:43:48,565 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\CAR&HIFI International\Sanet.st.CAR&HIFI_International_-_01_2026.pdf
+2026-03-17 13:07:26,668 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 13:07:26,719 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 13:07:28,527 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\MCM3D - Ada Wong - Resident Evil - 3D Print Model
+2026-03-17 13:07:28,754 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\MCM3D - Ada Wong - Resident Evil - 3D Print Model\3D Models.txt
+2026-03-17 13:07:29,288 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\MCM3D - Ada Wong - Resident Evil - 3D Print Model\DesireFX.me.stl
+2026-03-17 13:07:30,177 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\MCM3D - Ada Wong - Resident Evil - 3D Print Model\Pad.STL
+2026-03-17 13:07:30,339 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\MCM3D - Ada Wong - Resident Evil - 3D Print Model\STL Free.stl
+2026-03-17 13:07:30,559 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\MCM3D - Ada Wong - Resident Evil - 3D Print Model\Telegram Channel Free Models.stl
+2026-03-17 13:07:30,676 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\MCM3D - Ada Wong - Resident Evil - 3D Print Model\Telegram- Contact CG Model.url
+2026-03-17 13:10:01,409 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 13:10:01,614 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 13:10:03,135 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\BrunoArt3D – Chi Chi – 3D Print Model STL
+2026-03-17 13:10:03,266 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\BrunoArt3D – Chi Chi – 3D Print Model STL\3D Models.txt
+2026-03-17 13:10:03,433 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\BrunoArt3D – Chi Chi – 3D Print Model STL\DesireFX.me.stl
+2026-03-17 13:10:03,544 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\BrunoArt3D – Chi Chi – 3D Print Model STL\Pad.STL
+2026-03-17 13:10:03,709 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\BrunoArt3D – Chi Chi – 3D Print Model STL\STL Free.stl
+2026-03-17 13:10:03,935 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\BrunoArt3D – Chi Chi – 3D Print Model STL\Telegram Channel Free Models.stl
+2026-03-17 13:10:04,047 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\BrunoArt3D – Chi Chi – 3D Print Model STL\Telegram- Contact CG Model.url
+2026-03-17 13:11:53,489 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 13:11:53,520 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 13:11:53,526 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 13:11:53,599 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel4
+2026-03-17 13:11:53,816 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 13:11:53,856 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 13:11:55,448 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\Lucas Perez – Chun-Li – 3D Print Model STL
+2026-03-17 13:11:55,577 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Lucas Perez – Chun-Li – 3D Print Model STL\3D Models.txt
+2026-03-17 13:11:55,741 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Lucas Perez – Chun-Li – 3D Print Model STL\DesireFX.me.stl
+2026-03-17 13:11:55,852 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Lucas Perez – Chun-Li – 3D Print Model STL\Pad.STL
+2026-03-17 13:11:56,012 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Lucas Perez – Chun-Li – 3D Print Model STL\STL Free.stl
+2026-03-17 13:11:56,230 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Lucas Perez – Chun-Li – 3D Print Model STL\Telegram Channel Free Models.stl
+2026-03-17 13:11:56,346 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Lucas Perez – Chun-Li – 3D Print Model STL\Telegram- Contact CG Model.url
+2026-03-17 13:14:40,819 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 13:14:40,874 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 13:14:42,459 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\Chuya Factory - Nier - 2B
+2026-03-17 13:14:49,103 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\+NSFW.txt
+2026-03-17 13:14:49,596 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\+NSFW.url
+2026-03-17 13:14:49,703 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\Miniatures.txt
+2026-03-17 13:14:49,808 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\Print.STL
+2026-03-17 13:14:49,915 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\Star Wars.txt
+2026-03-17 13:14:50,019 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\Star Wars.url
+2026-03-17 13:14:50,125 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL 3D Print.url
+2026-03-17 13:14:50,235 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL Anime.txt
+2026-03-17 13:14:50,340 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL Comics.txt
+2026-03-17 13:14:50,508 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL Free.stl
+2026-03-17 13:14:50,620 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL Game.txt
+2026-03-17 13:14:50,725 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL Me.url
+2026-03-17 13:14:50,916 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\SW.stl
+2026-03-17 13:14:51,029 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\SW.txt
+2026-03-17 13:14:51,135 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\Vehicle 3D Model.url
+2026-03-17 13:14:51,239 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\Vehicles3D.txt
+2026-03-17 13:14:51,343 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\Warhammer - WarGame STL 3D Print.txt
+2026-03-17 13:14:51,448 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\Warhammer - WarGame.url
+2026-03-17 13:14:51,553 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\WH-WG.txt
+2026-03-17 13:14:51,763 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\WH40k.stl
+2026-03-17 13:14:51,878 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL Boost\Miniatures.stl
+2026-03-17 13:14:51,985 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL Boost\pack.stl
+2026-03-17 13:14:52,093 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL Boost\Pad.STL
+2026-03-17 13:14:52,199 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL Boost\STL Boost.jpg
+2026-03-17 13:14:52,304 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL Boost\STL Boost.txt
+2026-03-17 13:14:52,465 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL Boost\STL Free.stl
+2026-03-17 13:14:52,579 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL Boost\STL Me.url
+2026-03-17 13:14:52,800 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\Pack\STL Boost\Telegram Channel Free Models.stl
+2026-03-17 13:14:54,432 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\STL Boost\Miniatures.stl
+2026-03-17 13:14:54,539 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\STL Boost\pack.stl
+2026-03-17 13:14:54,647 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\STL Boost\Pad.STL
+2026-03-17 13:14:54,754 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\STL Boost\STL Boost.jpg
+2026-03-17 13:14:54,859 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\STL Boost\STL Boost.txt
+2026-03-17 13:14:55,022 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\STL Boost\STL Free.stl
+2026-03-17 13:14:55,130 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\STL Boost\STL Me.url
+2026-03-17 13:14:55,344 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Chuya Factory - Nier - 2B\STL Boost\Telegram Channel Free Models.stl
+2026-03-17 13:17:02,004 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 13:17:03,942 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\STL Boost
+2026-03-17 13:17:04,088 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\STL Boost\Miniatures.stl
+2026-03-17 13:17:04,197 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\STL Boost\pack.stl
+2026-03-17 13:17:04,305 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\STL Boost\Pad.STL
+2026-03-17 13:17:04,413 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\STL Boost\STL Boost.jpg
+2026-03-17 13:17:04,520 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\STL Boost\STL Boost.txt
+2026-03-17 13:17:04,690 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\STL Boost\STL Free.stl
+2026-03-17 13:17:04,800 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\STL Boost\STL Me.url
+2026-03-17 13:17:05,014 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\STL Boost\Telegram Channel Free Models.stl
+2026-03-17 13:18:18,812 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 13:18:20,556 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack
+2026-03-17 13:18:20,684 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\+NSFW.txt
+2026-03-17 13:18:20,789 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\+NSFW.url
+2026-03-17 13:18:20,893 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\Miniatures.txt
+2026-03-17 13:18:21,001 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\Print.STL
+2026-03-17 13:18:21,107 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\Star Wars.txt
+2026-03-17 13:18:21,212 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\Star Wars.url
+2026-03-17 13:18:21,318 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL 3D Print.url
+2026-03-17 13:18:21,422 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL Anime.txt
+2026-03-17 13:18:21,526 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL Comics.txt
+2026-03-17 13:18:21,700 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL Free.stl
+2026-03-17 13:18:21,811 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL Game.txt
+2026-03-17 13:18:21,918 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL Me.url
+2026-03-17 13:18:22,111 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\SW.stl
+2026-03-17 13:18:22,222 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\SW.txt
+2026-03-17 13:18:22,326 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\Vehicle 3D Model.url
+2026-03-17 13:18:22,431 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\Vehicles3D.txt
+2026-03-17 13:18:22,536 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\Warhammer - WarGame STL 3D Print.txt
+2026-03-17 13:18:22,643 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\Warhammer - WarGame.url
+2026-03-17 13:18:22,749 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\WH-WG.txt
+2026-03-17 13:18:22,968 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\WH40k.stl
+2026-03-17 13:18:23,084 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL Boost\Miniatures.stl
+2026-03-17 13:18:23,192 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL Boost\pack.stl
+2026-03-17 13:18:23,300 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL Boost\Pad.STL
+2026-03-17 13:18:23,405 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL Boost\STL Boost.jpg
+2026-03-17 13:18:23,510 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL Boost\STL Boost.txt
+2026-03-17 13:18:23,673 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL Boost\STL Free.stl
+2026-03-17 13:18:23,782 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL Boost\STL Me.url
+2026-03-17 13:18:23,998 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\1-10 Scale\Pack\STL Boost\Telegram Channel Free Models.stl
+2026-03-17 13:20:31,674 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 13:20:31,810 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 13:20:33,421 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Bust
+2026-03-17 13:21:06,231 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 13:21:06,406 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 13:21:08,007 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack
+2026-03-17 13:21:08,136 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\+NSFW.txt
+2026-03-17 13:21:08,603 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\+NSFW.url
+2026-03-17 13:21:08,712 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\Miniatures.txt
+2026-03-17 13:21:08,818 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\Print.STL
+2026-03-17 13:21:08,924 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\Star Wars.txt
+2026-03-17 13:21:09,029 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\Star Wars.url
+2026-03-17 13:21:09,135 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL 3D Print.url
+2026-03-17 13:21:09,241 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL Anime.txt
+2026-03-17 13:21:09,350 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL Comics.txt
+2026-03-17 13:21:09,512 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL Free.stl
+2026-03-17 13:21:09,624 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL Game.txt
+2026-03-17 13:21:09,729 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL Me.url
+2026-03-17 13:21:09,916 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\SW.stl
+2026-03-17 13:21:10,026 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\SW.txt
+2026-03-17 13:21:10,131 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\Vehicle 3D Model.url
+2026-03-17 13:21:10,237 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\Vehicles3D.txt
+2026-03-17 13:21:10,342 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\Warhammer - WarGame STL 3D Print.txt
+2026-03-17 13:21:10,447 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\Warhammer - WarGame.url
+2026-03-17 13:21:10,554 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\WH-WG.txt
+2026-03-17 13:21:10,768 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\WH40k.stl
+2026-03-17 13:21:10,882 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL Boost\Miniatures.stl
+2026-03-17 13:21:10,990 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL Boost\pack.stl
+2026-03-17 13:21:11,097 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL Boost\Pad.STL
+2026-03-17 13:21:11,203 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL Boost\STL Boost.jpg
+2026-03-17 13:21:11,309 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL Boost\STL Boost.txt
+2026-03-17 13:21:11,479 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL Boost\STL Free.stl
+2026-03-17 13:21:11,591 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL Boost\STL Me.url
+2026-03-17 13:21:11,807 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\Pack\STL Boost\Telegram Channel Free Models.stl
+2026-03-17 13:21:11,823 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\STL Boost
+2026-03-17 13:21:11,952 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\STL Boost\Miniatures.stl
+2026-03-17 13:21:12,060 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\STL Boost\pack.stl
+2026-03-17 13:21:12,171 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\STL Boost\Pad.STL
+2026-03-17 13:21:12,275 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\STL Boost\STL Boost.jpg
+2026-03-17 13:21:12,382 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\STL Boost\STL Boost.txt
+2026-03-17 13:21:12,549 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\STL Boost\STL Free.stl
+2026-03-17 13:21:12,661 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\STL Boost\STL Me.url
+2026-03-17 13:21:12,877 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\KcStudio - Agent 47 - Hitman\STL Boost\Telegram Channel Free Models.stl
+2026-03-17 14:56:47,861 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 14:56:49,388 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD
+2026-03-17 14:56:49,535 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\+NSFW.txt
+2026-03-17 14:56:49,641 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\+NSFW.url
+2026-03-17 14:56:49,747 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\3D Print Models STL.url
+2026-03-17 14:56:49,855 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Base.stl
+2026-03-17 14:56:49,963 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Board.stl
+2026-03-17 14:56:50,070 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Miniatures STL.url
+2026-03-17 14:56:50,181 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Miniatures.STL
+2026-03-17 14:56:50,288 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Miniatures.txt
+2026-03-17 14:56:50,413 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pad.STL
+2026-03-17 14:56:50,521 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Print.STL
+2026-03-17 14:56:50,629 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\PrintMe.txt
+2026-03-17 14:56:50,734 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Star Wars.txt
+2026-03-17 14:56:50,839 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Star Wars.url
+2026-03-17 14:56:50,945 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL 3D Print.txt
+2026-03-17 14:56:51,051 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL 3D Print.url
+2026-03-17 14:56:51,157 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Anime.txt
+2026-03-17 14:56:51,263 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Comics.txt
+2026-03-17 14:56:51,434 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Free.stl
+2026-03-17 14:56:51,545 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Game.txt
+2026-03-17 14:56:51,653 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Me.url
+2026-03-17 14:56:51,854 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\SW.stl
+2026-03-17 14:56:51,965 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\SW.txt
+2026-03-17 14:56:52,074 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Torso.STL
+2026-03-17 14:56:52,183 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Vehicle 3D Model.url
+2026-03-17 14:56:52,287 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Vehicles3D.txt
+2026-03-17 14:56:52,392 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Warhammer - WarGame STL 3D Print.txt
+2026-03-17 14:56:52,499 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Warhammer - WarGame.url
+2026-03-17 14:56:52,604 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\WH-WG.txt
+2026-03-17 14:56:52,835 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\WH40k.stl
+2026-03-17 14:56:52,948 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\+NSFW.txt
+2026-03-17 14:56:53,054 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\+NSFW.url
+2026-03-17 14:56:53,159 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\Miniatures.txt
+2026-03-17 14:56:53,265 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\Print.STL
+2026-03-17 14:56:53,369 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\Star Wars.txt
+2026-03-17 14:56:53,475 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\Star Wars.url
+2026-03-17 14:56:53,583 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\STL 3D Print.url
+2026-03-17 14:56:53,689 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\STL Anime.txt
+2026-03-17 14:56:53,795 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\STL Comics.txt
+2026-03-17 14:56:53,965 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\STL Free.stl
+2026-03-17 14:56:54,073 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\STL Game.txt
+2026-03-17 14:56:54,179 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\STL Me.url
+2026-03-17 14:56:54,369 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\SW.stl
+2026-03-17 14:56:54,482 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\SW.txt
+2026-03-17 14:56:54,588 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\Vehicle 3D Model.url
+2026-03-17 14:56:54,694 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\Vehicles3D.txt
+2026-03-17 14:56:54,799 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\Warhammer - WarGame STL 3D Print.txt
+2026-03-17 14:56:54,904 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\Warhammer - WarGame.url
+2026-03-17 14:56:55,009 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\WH-WG.txt
+2026-03-17 14:56:55,228 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\Pack\WH40k.stl
+2026-03-17 14:56:55,341 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\+NSFW.txt
+2026-03-17 14:56:55,448 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\+NSFW.url
+2026-03-17 14:56:55,554 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\Miniatures.stl
+2026-03-17 14:56:55,661 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\pack.stl
+2026-03-17 14:56:55,769 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\Pad.STL
+2026-03-17 14:56:55,874 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\STL Anime.txt
+2026-03-17 14:56:55,980 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\STL Boost.jpg
+2026-03-17 14:56:56,087 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\STL Boost.txt
+2026-03-17 14:56:56,191 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\STL Comics.txt
+2026-03-17 14:56:56,356 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\STL Free.stl
+2026-03-17 14:56:56,465 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\STL Game.txt
+2026-03-17 14:56:56,569 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\STL Me.url
+2026-03-17 14:56:56,674 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\SW.txt
+2026-03-17 14:56:56,893 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\Telegram Channel Free Models.stl
+2026-03-17 14:56:57,006 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\STL Boost\WH-WG.txt
+2026-03-17 14:57:34,843 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 14:57:35,020 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 14:57:36,700 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD
+2026-03-17 14:57:36,828 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\h3LL creator Chun Li\STL CLAD\3D Print Today.txt
+2026-03-17 14:58:34,435 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 14:58:34,459 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 14:58:36,000 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\3D Print Today.txt
+2026-03-17 14:59:00,964 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 14:59:02,606 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\Nier 2B Robot SP-RARE
+2026-03-17 14:59:02,752 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\3D Print Today.txt
+2026-03-17 15:00:08,455 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 15:00:08,638 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 15:00:11,548 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack
+2026-03-17 15:00:12,366 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\+NSFW.txt
+2026-03-17 15:00:12,471 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\+NSFW.url
+2026-03-17 15:00:12,581 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\Miniatures.txt
+2026-03-17 15:00:12,689 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\Print.STL
+2026-03-17 15:00:12,796 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\Star Wars.txt
+2026-03-17 15:00:12,904 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\Star Wars.url
+2026-03-17 15:00:13,011 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL 3D Print.url
+2026-03-17 15:00:13,119 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL Anime.txt
+2026-03-17 15:00:13,225 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL Comics.txt
+2026-03-17 15:00:13,405 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL Free.stl
+2026-03-17 15:00:13,517 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL Game.txt
+2026-03-17 15:00:13,624 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL Me.url
+2026-03-17 15:00:13,843 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\SW.stl
+2026-03-17 15:00:13,957 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\SW.txt
+2026-03-17 15:00:14,062 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\Vehicle 3D Model.url
+2026-03-17 15:00:14,172 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\Vehicles3D.txt
+2026-03-17 15:00:14,277 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\Warhammer - WarGame STL 3D Print.txt
+2026-03-17 15:00:14,383 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\Warhammer - WarGame.url
+2026-03-17 15:00:14,489 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\WH-WG.txt
+2026-03-17 15:00:14,737 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\WH40k.stl
+2026-03-17 15:00:14,856 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL Boost\Miniatures.stl
+2026-03-17 15:00:14,968 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL Boost\pack.stl
+2026-03-17 15:00:15,077 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL Boost\Pad.STL
+2026-03-17 15:00:15,184 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL Boost\STL Boost.jpg
+2026-03-17 15:00:15,291 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL Boost\STL Boost.txt
+2026-03-17 15:00:15,473 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL Boost\STL Free.stl
+2026-03-17 15:00:15,586 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL Boost\STL Me.url
+2026-03-17 15:00:15,855 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Nier 2B Robot SP-RARE\Pack\STL Boost\Telegram Channel Free Models.stl
+2026-03-17 15:13:33,326 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 15:13:33,378 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-17 15:13:35,027 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\STL Project – Android 18
+2026-03-17 15:13:35,185 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\STL Project – Android 18\3D Models.txt
+2026-03-17 15:13:36,638 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\STL Project – Android 18\DesireFX.me.stl
+2026-03-17 15:13:38,448 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\STL Project – Android 18\Pad.STL
+2026-03-17 15:13:38,626 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\STL Project – Android 18\STL Free.stl
+2026-03-17 15:13:38,877 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\STL Project – Android 18\Telegram Channel Free Models.stl
+2026-03-17 15:13:38,992 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\STL Project – Android 18\Telegram- Contact CG Model.url
+2026-03-17 15:42:10,184 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-17 15:42:11,635 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.A.Knight.of.the.Seven.Kingdoms.S01.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-MIXED
+2026-03-17 15:42:16,115 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-17 15:42:17,571 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\A.Knight.of.the.Seven.Kingdoms.S01.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-MIXED\Sanet.st.A.Knight.of.the.Seven.Kingdoms.S01.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-MIXED
+2026-03-17 15:52:10,908 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 15:52:11,120 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-17 15:52:12,601 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Kiss.of.the.Spider.Woman.2025.1080p.BluRay.x264-OFT_SANET
+2026-03-17 18:18:13,569 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 18:18:13,602 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-17 18:18:15,216 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_GitHub Foundations Certification Guide
+2026-03-17 18:18:15,240 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-1394340869
+2026-03-17 18:18:15,257 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_SimPy Simulation in Python
+2026-03-17 18:18:15,276 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_The Tmux Cookbook
+2026-03-17 18:18:15,292 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Mastering_Docker_on_Windows.sanet
+2026-03-17 18:21:35,292 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 18:21:35,377 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-17 18:21:37,659 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Nice_Girls_Need_Love_Too_1996
+2026-03-17 18:23:46,053 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 18:23:46,170 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-17 18:23:47,676 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-The_Linux_Command_Line_A_Complete_Introduction
+2026-03-17 18:24:02,253 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 18:24:02,417 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-17 18:24:04,027 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-The_Linux_Command_Line_A_Complete_Introduction
+2026-03-17 18:24:15,833 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-17 18:24:17,308 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\The_Linux_Command_Line_A_Complete_Introduction
+2026-03-17 18:34:38,231 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 18:34:38,373 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-17 18:34:39,875 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\GitHub Foundations Certification Guide\sanet.st_GitHub Foundations Certification Guide.epub
+2026-03-17 18:44:26,985 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 18:44:27,108 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-17 18:44:28,671 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Linux Training Guide.sanet
+2026-03-17 18:44:44,904 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-17 18:44:44,987 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-17 18:44:46,599 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Linux Training Guide\Linux Training Guide.sanet.st.epub
+2026-03-18 09:06:41,828 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-18 09:06:43,531 [1] INFO System.Windows.Forms.Form - Clean Filename:C:\Users\Dell\Downloads\macOS Tahoe Complete Manual - March 2026\Sanet.st.macOS_Tahoe_Complete_Manual_-_March_2026.pdf
+2026-03-18 09:09:23,924 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-18 09:09:23,969 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-03-18 09:27:36,307 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-18 09:27:36,352 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-18 09:27:37,873 [1] INFO System.Windows.Forms.Form - Clean Filename:C:\Users\Dell\Downloads\Sanet.st.Cuerpomente_-_Marzo_2026
+2026-03-18 09:27:49,230 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-18 09:27:49,439 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-18 09:27:50,970 [1] INFO System.Windows.Forms.Form - Clean Filename:C:\Users\Dell\Downloads\Cuerpomente\Sanet.st.Cuerpomente_-_Marzo_2026.pdf
+2026-03-18 11:03:56,742 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-03-18 15:37:16,992 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-18 15:37:17,196 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-18 15:37:18,741 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack
+2026-03-18 15:37:18,895 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\+NSFW.txt
+2026-03-18 15:37:19,005 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\+NSFW.url
+2026-03-18 15:37:19,114 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\Miniatures.txt
+2026-03-18 15:37:19,225 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\Print.STL
+2026-03-18 15:37:19,332 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\Star Wars.txt
+2026-03-18 15:37:19,441 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\Star Wars.url
+2026-03-18 15:37:19,551 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL 3D Print.url
+2026-03-18 15:37:19,660 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL Anime.txt
+2026-03-18 15:37:19,771 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL Comics.txt
+2026-03-18 15:37:19,939 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL Free.stl
+2026-03-18 15:37:20,055 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL Game.txt
+2026-03-18 15:37:20,163 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL Me.url
+2026-03-18 15:37:20,357 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\SW.stl
+2026-03-18 15:37:20,473 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\SW.txt
+2026-03-18 15:37:20,583 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\Vehicle 3D Model.url
+2026-03-18 15:37:20,707 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\Vehicles3D.txt
+2026-03-18 15:37:20,816 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\Warhammer - WarGame STL 3D Print.txt
+2026-03-18 15:37:20,926 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\Warhammer - WarGame.url
+2026-03-18 15:37:21,050 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\WH-WG.txt
+2026-03-18 15:37:21,267 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\WH40k.stl
+2026-03-18 15:37:21,395 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL Boost\Miniatures.stl
+2026-03-18 15:37:21,503 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL Boost\pack.stl
+2026-03-18 15:37:21,612 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL Boost\Pad.STL
+2026-03-18 15:37:21,719 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL Boost\STL Boost.jpg
+2026-03-18 15:37:21,828 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL Boost\STL Boost.txt
+2026-03-18 15:37:21,993 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL Boost\STL Free.stl
+2026-03-18 15:37:22,108 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL Boost\STL Me.url
+2026-03-18 15:37:22,330 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Misc\Exclusive - Army Pilot Pin-Up Girl\Pack\STL Boost\Telegram Channel Free Models.stl
+2026-03-18 15:43:02,729 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-18 15:43:02,742 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-18 15:43:04,483 [1] INFO System.Windows.Forms.Form - Clean Filename:K:\Movies\Anime\Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita\01_una_elfa_oscura_que_conocí_en_otro_mundo_Dw_anime_net_1080p.mp4
+2026-03-18 15:43:04,525 [1] INFO System.Windows.Forms.Form - Clean Filename:K:\Movies\Anime\Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita\02 - Amiga [Dw-anime.net] [1080p].mp4
+2026-03-18 15:43:04,556 [1] INFO System.Windows.Forms.Form - Clean Filename:K:\Movies\Anime\Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita\03_Educaciónn_física,_pero_las_capacidades_Dw_anime_net_1080p.mp4
+2026-03-18 15:43:04,680 [1] INFO System.Windows.Forms.Form - Clean Filename:K:\Movies\Anime\Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita\04_¿¡Más_chicas_que_te_persiguen!_Dw_anime_net_1080p.mp4
+2026-03-18 15:43:05,122 [1] INFO System.Windows.Forms.Form - Clean Filename:K:\Movies\Anime\Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita\05 - Baño mixto [Dw-anime.net] [1080p].mp4
+2026-03-18 15:43:05,143 [1] INFO System.Windows.Forms.Form - Clean Filename:K:\Movies\Anime\Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita\06 - ¿A escondidas [Dw-anime.net] [1080p].mp4
+2026-03-18 15:43:05,171 [1] INFO System.Windows.Forms.Form - Clean Filename:K:\Movies\Anime\Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita\07 - Resfriado [Dw-anime.net] [1080p].mp4
+2026-03-18 15:43:05,195 [1] INFO System.Windows.Forms.Form - Clean Filename:K:\Movies\Anime\Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita\08 - Cosplay [Dw-anime.net] [1080p].mp4
+2026-03-18 15:43:05,214 [1] INFO System.Windows.Forms.Form - Clean Filename:K:\Movies\Anime\Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita\09 - Incluso entre chicas [Dw-anime.net] [1080p].mp4
+2026-03-18 15:43:05,235 [1] INFO System.Windows.Forms.Form - Clean Filename:K:\Movies\Anime\Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita\10 - Dos tipos de hombres [Dw-anime.net] [1080p].mp4
+2026-03-18 15:43:05,255 [1] INFO System.Windows.Forms.Form - Clean Filename:K:\Movies\Anime\Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita\11 - ¿La tentación del mar [Dw-anime.net] [1080p].mp4
+2026-03-18 15:43:05,274 [1] INFO System.Windows.Forms.Form - Clean Filename:K:\Movies\Anime\Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita\12 - Cuando te conocí [Dw-anime.net] [1080p].mp4
+2026-03-18 17:23:04,062 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-18 17:23:04,076 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-18 17:23:04,083 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-18 17:23:04,280 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-18 17:23:06,072 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\QB Works – Shadowheart Bunnygirl – 3D Print Model STL
+2026-03-18 17:23:06,212 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\QB Works – Shadowheart Bunnygirl – 3D Print Model STL\3D Models.txt
+2026-03-18 17:23:06,373 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\QB Works – Shadowheart Bunnygirl – 3D Print Model STL\DesireFX.me.stl
+2026-03-18 17:23:06,495 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\QB Works – Shadowheart Bunnygirl – 3D Print Model STL\Pad.STL
+2026-03-18 17:23:06,664 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\QB Works – Shadowheart Bunnygirl – 3D Print Model STL\STL Free.stl
+2026-03-18 17:23:06,897 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\QB Works – Shadowheart Bunnygirl – 3D Print Model STL\Telegram Channel Free Models.stl
+2026-03-18 17:23:07,021 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\QB Works – Shadowheart Bunnygirl – 3D Print Model STL\Telegram- Contact CG Model.url
+2026-03-18 17:29:10,402 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-18 17:29:10,486 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-18 17:29:12,023 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Marvel\Abe3d – Storm Savage Land – 3D Print Model STL\img
+2026-03-18 17:29:12,507 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Marvel\Abe3d – Storm Savage Land – 3D Print Model STL\img\3D Models.txt
+2026-03-18 17:29:13,225 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Marvel\Abe3d – Storm Savage Land – 3D Print Model STL\img\DesireFX.me.stl
+2026-03-18 17:29:13,351 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Marvel\Abe3d – Storm Savage Land – 3D Print Model STL\img\Pad.STL
+2026-03-18 17:29:13,527 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Marvel\Abe3d – Storm Savage Land – 3D Print Model STL\img\STL Free.stl
+2026-03-18 17:29:13,758 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Marvel\Abe3d – Storm Savage Land – 3D Print Model STL\img\Telegram Channel Free Models.stl
+2026-03-18 17:29:13,879 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Marvel\Abe3d – Storm Savage Land – 3D Print Model STL\img\Telegram- Contact CG Model.url
+2026-03-18 17:34:17,423 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-18 17:34:17,514 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-18 17:34:19,020 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\Momoji – Kuroeda – Plus Sized Elf – 3D Print Model STL\Kuro
+2026-03-18 17:34:19,180 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Momoji – Kuroeda – Plus Sized Elf – 3D Print Model STL\Kuro\3D Models.txt
+2026-03-18 17:34:20,684 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Momoji – Kuroeda – Plus Sized Elf – 3D Print Model STL\Kuro\DesireFX.me.stl
+2026-03-18 17:34:22,618 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Momoji – Kuroeda – Plus Sized Elf – 3D Print Model STL\Kuro\Pad.STL
+2026-03-18 17:34:23,210 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Momoji – Kuroeda – Plus Sized Elf – 3D Print Model STL\Kuro\STL Free.stl
+2026-03-18 17:34:23,444 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Momoji – Kuroeda – Plus Sized Elf – 3D Print Model STL\Kuro\Telegram Channel Free Models.stl
+2026-03-18 17:34:23,583 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Momoji – Kuroeda – Plus Sized Elf – 3D Print Model STL\Kuro\Telegram- Contact CG Model.url
+2026-03-18 18:06:11,357 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-18 18:06:11,518 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-18 18:06:13,412 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Marvel\Baby Groot Heart
+2026-03-18 18:06:14,600 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Marvel\Baby Groot Heart\STL.txt
+2026-03-18 18:06:15,094 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Marvel\Baby Groot Heart\tme_stl.STL
+2026-03-19 13:18:32,724 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-19 13:18:34,290 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_various_artists__70s80s90s_love_songs_2026_flac_16b
+2026-03-19 13:18:38,629 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 13:18:38,758 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-19 13:18:40,629 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\various artists  70s80s90s love songs 2026 flac 16b
+2026-03-19 13:18:44,599 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-19 13:18:46,032 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\various artists  70s80s90s love songs 2026 flac 16b [FLAC]
+2026-03-19 13:34:48,071 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 13:34:48,164 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-19 13:34:49,708 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\sanet.stChuckUltimate\2007. Chuck Berry - The Ultimate Collection {2007, EU, Spectrum Music 982 8919}
+2026-03-19 15:22:17,632 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-19 15:22:19,265 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BachTheCollectionFLACsanet
+2026-03-19 15:22:26,984 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 15:22:27,174 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-19 15:22:28,750 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BachTheCollectionFLAC\BachTheCollectionFLACsanet.st
+2026-03-19 15:22:45,606 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 15:22:45,805 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-19 15:22:48,564 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\BachTheCollectionFLAC\BachTheCollectionFLAC
+2026-03-19 18:40:27,022 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 18:40:27,107 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel4
+2026-03-19 18:40:27,337 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 18:40:27,387 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-19 18:40:28,903 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model
+2026-03-19 18:40:32,414 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\+NSFW.txt
+2026-03-19 18:40:39,638 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\+NSFW.url
+2026-03-19 18:40:39,920 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Base.stl
+2026-03-19 18:40:40,028 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Board.stl
+2026-03-19 18:40:42,162 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Miniatures.txt
+2026-03-19 18:40:42,269 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\STL Anime.txt
+2026-03-19 18:40:42,379 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\STL Comics.txt
+2026-03-19 18:40:42,484 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\STL Game.txt
+2026-03-19 18:40:42,592 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\SW.txt
+2026-03-19 18:40:42,699 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Vehicles3D.txt
+2026-03-19 18:40:46,092 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Holster\+NSFW.txt
+2026-03-19 18:40:46,200 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Holster\+NSFW.url
+2026-03-19 18:40:46,310 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Holster\Base.stl
+2026-03-19 18:40:46,420 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Holster\Board.stl
+2026-03-19 18:40:46,742 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Holster\Miniatures.txt
+2026-03-19 18:40:46,849 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Holster\STL Anime.txt
+2026-03-19 18:40:46,956 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Holster\STL Comics.txt
+2026-03-19 18:40:47,064 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Holster\STL Game.txt
+2026-03-19 18:40:47,172 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Holster\SW.txt
+2026-03-19 18:40:47,280 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Galactic Armory - ARC Clone Trooper Armor Accessories - 3D Print Model\Holster\Vehicles3D.txt
+2026-03-19 18:50:29,946 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 18:50:30,126 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-19 18:50:31,858 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\CW Studio - Genshin Impact - Lauma\Render
+2026-03-19 18:50:32,744 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\CW Studio - Genshin Impact - Lauma\Render\3D Print Today.txt
+2026-03-19 18:52:31,971 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 18:52:32,097 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-19 18:52:35,639 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model
+2026-03-19 18:53:11,670 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 18:53:11,827 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-19 18:53:13,455 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK
+2026-03-19 18:53:13,596 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\+NSFW(1).txt
+2026-03-19 18:53:13,706 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\+NSFW(1).url
+2026-03-19 18:53:13,812 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\+NSFW.txt
+2026-03-19 18:53:13,936 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\+NSFW.url
+2026-03-19 18:53:14,044 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\3D Print Models STL(1).url
+2026-03-19 18:53:14,155 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\3D Print Models STL.url
+2026-03-19 18:53:14,265 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Base(1).stl
+2026-03-19 18:53:14,391 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Base.stl
+2026-03-19 18:53:14,513 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Board(1).stl
+2026-03-19 18:53:14,638 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Board.stl
+2026-03-19 18:53:14,760 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Miniatures STL(1).url
+2026-03-19 18:53:14,867 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Miniatures STL.url
+2026-03-19 18:53:14,980 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Miniatures(1).STL
+2026-03-19 18:53:15,102 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Miniatures(1).txt
+2026-03-19 18:53:15,211 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Miniatures.STL
+2026-03-19 18:53:15,333 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Miniatures.txt
+2026-03-19 18:53:15,447 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pad(1).STL
+2026-03-19 18:53:15,570 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pad.STL
+2026-03-19 18:53:15,676 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Print(1).STL
+2026-03-19 18:53:15,785 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Print.STL
+2026-03-19 18:53:15,893 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\PrintMe(1).txt
+2026-03-19 18:53:16,003 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\PrintMe.txt
+2026-03-19 18:53:16,110 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Star Wars(1).txt
+2026-03-19 18:53:16,232 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Star Wars(1).url
+2026-03-19 18:53:16,342 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Star Wars.txt
+2026-03-19 18:53:16,453 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Star Wars.url
+2026-03-19 18:53:16,561 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL 3D Print(1).txt
+2026-03-19 18:53:16,669 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL 3D Print(1).url
+2026-03-19 18:53:16,779 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL 3D Print.txt
+2026-03-19 18:53:16,889 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL 3D Print.url
+2026-03-19 18:53:16,998 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Anime(1).txt
+2026-03-19 18:53:17,105 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Anime.txt
+2026-03-19 18:53:17,214 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Comics(1).txt
+2026-03-19 18:53:17,324 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Comics.txt
+2026-03-19 18:53:17,492 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Free(1).stl
+2026-03-19 18:53:17,620 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\+NSFW(1).txt
+2026-03-19 18:53:17,727 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\+NSFW(1).url
+2026-03-19 18:53:17,836 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\+NSFW.txt
+2026-03-19 18:53:17,944 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\+NSFW.url
+2026-03-19 18:53:18,056 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Miniatures(1).txt
+2026-03-19 18:53:18,163 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Miniatures.txt
+2026-03-19 18:53:18,274 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Print(1).STL
+2026-03-19 18:53:18,382 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Print.STL
+2026-03-19 18:53:18,490 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Star Wars(1).txt
+2026-03-19 18:53:18,601 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Star Wars(1).url
+2026-03-19 18:53:18,724 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Star Wars.txt
+2026-03-19 18:53:18,834 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Star Wars.url
+2026-03-19 18:53:18,942 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\STL 3D Print(1).url
+2026-03-19 18:53:19,051 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\STL 3D Print.url
+2026-03-19 18:53:19,161 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\STL Anime(1).txt
+2026-03-19 18:53:19,269 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\STL Anime.txt
+2026-03-19 18:53:19,378 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\STL Comics(1).txt
+2026-03-19 18:53:19,489 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\STL Comics.txt
+2026-03-19 18:53:19,660 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\STL Free(1).stl
+2026-03-19 18:53:19,833 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\STL Free.stl
+2026-03-19 18:53:19,942 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\STL Game(1).txt
+2026-03-19 18:53:20,050 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\STL Game.txt
+2026-03-19 18:53:20,159 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\STL Me(1).url
+2026-03-19 18:53:20,268 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\STL Me.url
+2026-03-19 18:53:20,461 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\SW(1).stl
+2026-03-19 18:53:20,582 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\SW(1).txt
+2026-03-19 18:53:20,779 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\SW.stl
+2026-03-19 18:53:20,892 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\SW.txt
+2026-03-19 18:53:21,000 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Vehicle 3D Model(1).url
+2026-03-19 18:53:21,108 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Vehicle 3D Model.url
+2026-03-19 18:53:21,218 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Vehicles3D(1).txt
+2026-03-19 18:53:21,328 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Vehicles3D.txt
+2026-03-19 18:53:21,437 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Warhammer - WarGame STL 3D Print(1).txt
+2026-03-19 18:53:21,544 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Warhammer - WarGame STL 3D Print.txt
+2026-03-19 18:53:21,653 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Warhammer - WarGame(1).url
+2026-03-19 18:53:21,762 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\Warhammer - WarGame.url
+2026-03-19 18:53:21,870 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\WH-WG(1).txt
+2026-03-19 18:53:21,979 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\WH-WG.txt
+2026-03-19 18:53:22,201 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\WH40k(1).stl
+2026-03-19 18:53:22,443 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Pack\WH40k.stl
+2026-03-19 18:53:22,560 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\+NSFW(1).txt
+2026-03-19 18:53:22,668 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\+NSFW(1).url
+2026-03-19 18:53:22,778 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\+NSFW.txt
+2026-03-19 18:53:22,887 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\+NSFW.url
+2026-03-19 18:53:22,996 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\Miniatures(1).stl
+2026-03-19 18:53:23,108 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\Miniatures.stl
+2026-03-19 18:53:23,218 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\pack(1).stl
+2026-03-19 18:53:23,327 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\pack.stl
+2026-03-19 18:53:23,438 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\Pad(1).STL
+2026-03-19 18:53:23,548 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\Pad.STL
+2026-03-19 18:53:23,655 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Anime(1).txt
+2026-03-19 18:53:23,763 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Anime.txt
+2026-03-19 18:53:23,874 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Boost(1).jpg
+2026-03-19 18:53:23,985 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Boost(1).txt
+2026-03-19 18:53:24,095 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Boost.jpg
+2026-03-19 18:53:24,203 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Boost.txt
+2026-03-19 18:53:24,312 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Comics(1).txt
+2026-03-19 18:53:24,422 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Comics.txt
+2026-03-19 18:53:24,623 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Free(1).stl
+2026-03-19 18:53:24,833 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Free.stl
+2026-03-19 18:53:24,950 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Game(1).txt
+2026-03-19 18:53:25,058 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Game.txt
+2026-03-19 18:53:25,168 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Me(1).url
+2026-03-19 18:53:25,277 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\STL Me.url
+2026-03-19 18:53:25,402 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\SW(1).txt
+2026-03-19 18:53:25,513 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\SW.txt
+2026-03-19 18:53:25,749 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\Telegram Channel Free Models(1).stl
+2026-03-19 18:53:25,994 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\Telegram Channel Free Models.stl
+2026-03-19 18:53:26,117 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\WH-WG(1).txt
+2026-03-19 18:53:26,225 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Boost\WH-WG.txt
+2026-03-19 18:54:12,307 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 18:54:12,450 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-19 18:54:13,947 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK
+2026-03-19 18:54:14,148 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Free.stl
+2026-03-19 18:54:14,262 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Game(1).txt
+2026-03-19 18:54:14,372 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Game.txt
+2026-03-19 18:54:14,483 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Me(1).url
+2026-03-19 18:54:14,592 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\STL Me.url
+2026-03-19 18:54:14,831 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\SW(1).stl
+2026-03-19 18:54:14,962 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\SW(1).txt
+2026-03-19 18:54:15,162 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\SW.stl
+2026-03-19 18:54:15,288 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\SW.txt
+2026-03-19 18:54:15,397 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Torso(1).STL
+2026-03-19 18:54:15,505 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Torso.STL
+2026-03-19 18:54:15,613 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Vehicle 3D Model(1).url
+2026-03-19 18:54:15,724 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Vehicle 3D Model.url
+2026-03-19 18:54:15,833 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Vehicles3D(1).txt
+2026-03-19 18:54:15,943 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Vehicles3D.txt
+2026-03-19 18:54:16,051 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Warhammer - WarGame STL 3D Print(1).txt
+2026-03-19 18:54:16,175 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Warhammer - WarGame STL 3D Print.txt
+2026-03-19 18:54:16,299 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Warhammer - WarGame(1).url
+2026-03-19 18:54:16,408 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\Warhammer - WarGame.url
+2026-03-19 18:54:16,518 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\WH-WG(1).txt
+2026-03-19 18:54:16,628 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\WH-WG.txt
+2026-03-19 18:54:16,856 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\WH40k(1).stl
+2026-03-19 18:54:17,091 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\2B Nier Automata - 3D Print Model\STL PACK\WH40k.stl
+2026-03-19 18:59:44,601 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 18:59:44,665 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-19 18:59:46,180 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\Aayla Secura - Abe3D img
+2026-03-19 18:59:48,653 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\Aayla Secura - Abe3D img\Miniatures STL.url
+2026-03-19 18:59:48,763 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\Aayla Secura - Abe3D img\Star Wars.url
+2026-03-19 18:59:48,961 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\Aayla Secura - Abe3D img\SW.stl
+2026-03-19 18:59:49,078 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\Aayla Secura - Abe3D img\Warhammer - WarGame STL 3D Print.txt
+2026-03-19 18:59:49,185 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\Aayla Secura - Abe3D img\Warhammer - WarGame.url
+2026-03-19 18:59:49,294 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\Aayla Secura - Abe3D img\WH-WG.txt
+2026-03-19 18:59:49,535 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\Aayla Secura - Abe3D img\WH40k.stl
+2026-03-19 19:00:08,343 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 19:00:08,496 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-19 19:00:09,983 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\1_4 Aayla Secura Pre Support - Abe3D
+2026-03-19 19:00:16,644 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\1_4 Aayla Secura Pre Support - Abe3D\Miniatures STL.url
+2026-03-19 19:00:18,429 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\1_4 Aayla Secura Pre Support - Abe3D\Star Wars.url
+2026-03-19 19:00:18,627 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\1_4 Aayla Secura Pre Support - Abe3D\SW.stl
+2026-03-19 19:00:21,043 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\1_4 Aayla Secura Pre Support - Abe3D\Warhammer - WarGame STL 3D Print.txt
+2026-03-19 19:00:21,154 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\1_4 Aayla Secura Pre Support - Abe3D\Warhammer - WarGame.url
+2026-03-19 19:00:21,263 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\1_4 Aayla Secura Pre Support - Abe3D\WH-WG.txt
+2026-03-19 19:00:21,497 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\1_4 Aayla Secura Pre Support - Abe3D\WH40k.stl
+2026-03-19 19:00:48,343 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 19:00:48,479 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-19 19:00:50,003 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Star Wars\Abe3D - Star Wars - Aayla Secura\1_4 Aayla Secura - Abe3D by Ramses
+2026-03-19 19:01:58,004 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-19 19:01:59,640 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Star Wars\Master Yoda Sculpture - Collectible for Star Wars Fans - 3D Print Model
+2026-03-19 19:01:59,906 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Master Yoda Sculpture - Collectible for Star Wars Fans - 3D Print Model\Miniatures.STL
+2026-03-19 19:02:00,013 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Master Yoda Sculpture - Collectible for Star Wars Fans - 3D Print Model\Miniatures.txt
+2026-03-19 19:02:00,123 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Master Yoda Sculpture - Collectible for Star Wars Fans - 3D Print Model\Star Wars.txt
+2026-03-19 19:02:00,231 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Master Yoda Sculpture - Collectible for Star Wars Fans - 3D Print Model\Star Wars.url
+2026-03-19 19:02:00,396 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Master Yoda Sculpture - Collectible for Star Wars Fans - 3D Print Model\STL Free.stl
+2026-03-19 19:02:00,600 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Master Yoda Sculpture - Collectible for Star Wars Fans - 3D Print Model\SW.stl
+2026-03-19 19:02:00,714 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Master Yoda Sculpture - Collectible for Star Wars Fans - 3D Print Model\SW.txt
+2026-03-19 19:02:00,822 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Master Yoda Sculpture - Collectible for Star Wars Fans - 3D Print Model\Warhammer - WarGame STL 3D Print.txt
+2026-03-19 19:02:00,930 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Master Yoda Sculpture - Collectible for Star Wars Fans - 3D Print Model\Warhammer - WarGame.url
+2026-03-19 19:02:01,040 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Master Yoda Sculpture - Collectible for Star Wars Fans - 3D Print Model\WH-WG.txt
+2026-03-19 19:02:01,260 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Master Yoda Sculpture - Collectible for Star Wars Fans - 3D Print Model\WH40k.stl
+2026-03-19 19:05:15,772 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 19:05:15,804 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-19 19:05:17,447 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Star Wars\Grogu in Hover Pod Figurine for Star Wars Fans - 3D Print Model
+2026-03-19 19:05:18,059 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Grogu in Hover Pod Figurine for Star Wars Fans - 3D Print Model\Miniatures.STL
+2026-03-19 19:05:18,169 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Grogu in Hover Pod Figurine for Star Wars Fans - 3D Print Model\Miniatures.txt
+2026-03-19 19:05:18,278 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Grogu in Hover Pod Figurine for Star Wars Fans - 3D Print Model\Star Wars.txt
+2026-03-19 19:05:18,386 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Grogu in Hover Pod Figurine for Star Wars Fans - 3D Print Model\Star Wars.url
+2026-03-19 19:05:18,555 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Grogu in Hover Pod Figurine for Star Wars Fans - 3D Print Model\STL Free.stl
+2026-03-19 19:05:18,770 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Grogu in Hover Pod Figurine for Star Wars Fans - 3D Print Model\SW.stl
+2026-03-19 19:05:18,885 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Grogu in Hover Pod Figurine for Star Wars Fans - 3D Print Model\SW.txt
+2026-03-19 19:05:18,994 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Grogu in Hover Pod Figurine for Star Wars Fans - 3D Print Model\Warhammer - WarGame STL 3D Print.txt
+2026-03-19 19:05:19,103 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Grogu in Hover Pod Figurine for Star Wars Fans - 3D Print Model\Warhammer - WarGame.url
+2026-03-19 19:05:19,214 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Grogu in Hover Pod Figurine for Star Wars Fans - 3D Print Model\WH-WG.txt
+2026-03-19 19:05:19,441 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\Grogu in Hover Pod Figurine for Star Wars Fans - 3D Print Model\WH40k.stl
+2026-03-19 19:32:52,618 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-19 19:32:52,795 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-19 19:32:54,322 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\5 Nights at Freddys
+2026-03-20 09:32:48,766 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-20 09:32:50,161 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\MyDirtyMaid.26.03.19.Octokuro.1080p.sanet\MyDirtyMaid.26.03.19.Octokuro.1080p.sanet.st.mp4
+2026-03-20 09:32:54,238 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-20 09:32:54,421 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-20 09:32:55,952 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\MyDirtyMaid.26.03.19.Octokuro.1080p.sanet
+2026-03-20 16:53:05,678 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-20 16:53:05,748 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-20 16:53:07,376 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_bz_Nicole_TheDan_720p\sanet.st_bz_Nicole_TheDan_720p.mp4
+2026-03-20 16:55:20,273 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-20 16:55:20,441 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-20 16:55:21,962 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_bz_Nicole_TheDan_720p
+2026-03-20 17:57:37,596 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-20 17:57:37,617 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-20 17:57:39,151 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SW118_Nice_blog.sanet
+2026-03-20 17:57:39,177 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SW119_Nice_blog.sanet
+2026-03-22 18:41:52,566 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-22 18:41:52,656 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-22 18:41:54,201 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Orgy_Anthology_2014
+2026-03-22 18:42:33,443 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-22 18:42:33,576 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-22 18:42:35,063 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.The.Time.Tunnel.1966.S01.2160p
+2026-03-22 18:42:56,137 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-22 18:42:56,257 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-22 18:42:57,790 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Signora_Del_Bordello_2006
+2026-03-22 18:43:01,470 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-22 18:43:01,537 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-22 18:43:03,301 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.03.22.Ryan.Reid.And.Kayley.Gunner.Surprise.Dick.For.Their.Anniversary.1080p.sanet
+2026-03-22 18:44:17,299 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-22 18:44:17,490 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-22 18:44:19,066 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.03.22.Slippery.Sex.The.Best.Of.Oil.1080p.sanet
+2026-03-22 18:44:24,003 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-22 18:44:24,139 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-22 18:44:25,580 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.03.22.Slippery.Sex.The.Best.Of.Oil.1080p\BrazzersExxtra.26.03.22.Slippery.Sex.The.Best.Of.Oil.1080p.sanet.st.mp4
+2026-03-22 18:45:05,467 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-22 18:45:05,486 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-22 18:45:07,111 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Monster.Curves.Vol.55_2026
+2026-03-23 12:54:04,699 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-23 12:54:04,754 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-23 12:54:06,328 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Orgy_World_The_Next_Level_3_2002
+2026-03-23 12:54:06,508 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Orgy_World_The_Next_Level_2_2002
+2026-03-23 12:54:06,525 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Orgy_World_The_Next_Level_1_2002
+2026-03-23 12:54:06,540 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.02.12.Its.Hard.Staying.Sad.During.An.Orgy.1080p.sanet
+2026-03-23 12:54:06,555 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st.lmfntsthrc
+2026-03-23 13:20:18,968 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-23 13:20:19,108 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-23 13:20:20,705 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.02.12.Its.Hard.Staying.Sad.During.An.Orgy.1080p\BrazzersExxtra.26.02.12.Its.Hard.Staying.Sad.During.An.Orgy.1080p.sanet.st.mp4
+2026-03-23 13:20:30,057 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-23 13:20:30,311 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-23 13:20:31,805 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.03.22.Ryan.Reid.And.Kayley.Gunner.Surprise.Dick.For.Their.Anniversary.1080p\BrazzersExxtra.26.03.22.Ryan.Reid.And.Kayley.Gunner.Surprise.Dick.For.Their.Anniversary.1080p.sanet.st.mp4
+2026-03-23 13:28:02,111 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-23 13:28:02,210 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-23 13:28:03,796 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\AI.Image.Background.Remover.Pro.1.1.1.SaNet
+2026-03-24 09:18:29,660 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 09:18:29,806 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-24 09:18:30,085 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 09:18:30,174 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel4
+2026-03-24 09:18:31,733 [1] INFO System.Windows.Forms.Form - Folder to renumering files:E:\Downloads\sanet.st-Tlameteotl_-_Star_Wars__-_No_Hope\Tlameteotl - Star Wars  - No Hope
+2026-03-24 09:18:40,470 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 09:18:40,606 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-03-24 09:18:40,821 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 09:18:40,850 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-24 09:18:42,387 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-Tlameteotl_-_Star_Wars__-_No_Hope
+2026-03-24 11:16:52,928 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 11:16:52,948 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-24 11:16:54,801 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia
+2026-03-24 11:16:56,708 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\3D Print Today.txt
+2026-03-24 11:17:04,870 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\+NSFW.txt
+2026-03-24 11:17:04,983 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\+NSFW.url
+2026-03-24 11:17:05,094 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\3D Print Models STL.url
+2026-03-24 11:17:05,204 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Base.stl
+2026-03-24 11:17:05,318 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Board.stl
+2026-03-24 11:17:05,428 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Miniatures STL.url
+2026-03-24 11:17:05,531 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Miniatures.STL
+2026-03-24 11:17:05,642 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Miniatures.txt
+2026-03-24 11:17:05,753 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pad.STL
+2026-03-24 11:17:05,859 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Print.STL
+2026-03-24 11:17:05,966 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\PrintMe.txt
+2026-03-24 11:17:06,075 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Star Wars.txt
+2026-03-24 11:17:06,183 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Star Wars.url
+2026-03-24 11:17:06,290 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL 3D Print.txt
+2026-03-24 11:17:06,398 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL 3D Print.url
+2026-03-24 11:17:06,508 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Anime.txt
+2026-03-24 11:17:06,616 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Comics.txt
+2026-03-24 11:17:06,782 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Free.stl
+2026-03-24 11:17:06,899 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Game.txt
+2026-03-24 11:17:07,007 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Me.url
+2026-03-24 11:17:07,213 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\SW.stl
+2026-03-24 11:17:07,332 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\SW.txt
+2026-03-24 11:17:07,441 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Torso.STL
+2026-03-24 11:17:07,549 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Vehicle 3D Model.url
+2026-03-24 11:17:07,656 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Vehicles3D.txt
+2026-03-24 11:17:07,765 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Warhammer - WarGame STL 3D Print.txt
+2026-03-24 11:17:07,874 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Warhammer - WarGame.url
+2026-03-24 11:17:07,982 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\WH-WG.txt
+2026-03-24 11:17:08,209 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\WH40k.stl
+2026-03-24 11:17:08,324 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\+NSFW.txt
+2026-03-24 11:17:08,432 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\+NSFW.url
+2026-03-24 11:17:08,542 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\Miniatures.txt
+2026-03-24 11:17:08,652 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\Print.STL
+2026-03-24 11:17:08,760 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\Star Wars.txt
+2026-03-24 11:17:08,868 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\Star Wars.url
+2026-03-24 11:17:08,977 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\STL 3D Print.url
+2026-03-24 11:17:09,086 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\STL Anime.txt
+2026-03-24 11:17:09,194 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\STL Comics.txt
+2026-03-24 11:17:09,360 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\STL Free.stl
+2026-03-24 11:17:09,474 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\STL Game.txt
+2026-03-24 11:17:09,583 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\STL Me.url
+2026-03-24 11:17:09,786 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\SW.stl
+2026-03-24 11:17:09,897 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\SW.txt
+2026-03-24 11:17:10,007 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\Vehicle 3D Model.url
+2026-03-24 11:17:10,115 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\Vehicles3D.txt
+2026-03-24 11:17:10,234 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\Warhammer - WarGame STL 3D Print.txt
+2026-03-24 11:17:10,344 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\Warhammer - WarGame.url
+2026-03-24 11:17:10,453 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\WH-WG.txt
+2026-03-24 11:17:10,681 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\Pack\WH40k.stl
+2026-03-24 11:17:10,797 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\+NSFW.txt
+2026-03-24 11:17:10,906 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\+NSFW.url
+2026-03-24 11:17:11,020 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\Miniatures.stl
+2026-03-24 11:17:11,144 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\pack.stl
+2026-03-24 11:17:11,264 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\Pad.STL
+2026-03-24 11:17:11,385 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\STL Anime.txt
+2026-03-24 11:17:11,511 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\STL Boost.jpg
+2026-03-24 11:17:11,620 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\STL Boost.txt
+2026-03-24 11:17:11,728 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\STL Comics.txt
+2026-03-24 11:17:11,935 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\STL Free.stl
+2026-03-24 11:17:12,056 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\STL Game.txt
+2026-03-24 11:17:12,165 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\STL Me.url
+2026-03-24 11:17:12,273 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\SW(1).txt
+2026-03-24 11:17:12,383 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\SW.txt
+2026-03-24 11:17:12,701 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\Telegram Channel Free Models.stl
+2026-03-24 11:17:12,830 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Uroboros3d - Kuroinu - Olga Discordia\STL PACK\STL Boost\WH-WG.txt
+2026-03-24 12:12:22,238 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-24 12:12:23,793 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\Skytube Sexy JK girl
+2026-03-24 12:12:24,263 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\3D Print Today.txt
+2026-03-24 12:12:27,178 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\+NSFW.txt
+2026-03-24 12:12:27,285 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\+NSFW.url
+2026-03-24 12:12:27,395 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\3D Print Models STL.url
+2026-03-24 12:12:27,508 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Base.stl
+2026-03-24 12:12:27,633 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Board.stl
+2026-03-24 12:12:27,755 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Miniatures STL.url
+2026-03-24 12:12:27,868 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Miniatures.STL
+2026-03-24 12:12:27,974 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Miniatures.txt
+2026-03-24 12:12:28,087 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pad.STL
+2026-03-24 12:12:28,207 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Print.STL
+2026-03-24 12:12:28,330 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\PrintMe.txt
+2026-03-24 12:12:28,441 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Star Wars.txt
+2026-03-24 12:12:28,547 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Star Wars.url
+2026-03-24 12:12:28,658 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL 3D Print.txt
+2026-03-24 12:12:28,797 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL 3D Print.url
+2026-03-24 12:12:28,920 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Anime.txt
+2026-03-24 12:12:29,029 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Comics.txt
+2026-03-24 12:12:29,195 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Free.stl
+2026-03-24 12:12:29,308 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Game.txt
+2026-03-24 12:12:29,418 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Me.url
+2026-03-24 12:12:29,624 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\SW.stl
+2026-03-24 12:12:29,742 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\SW.txt
+2026-03-24 12:12:29,851 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Torso.STL
+2026-03-24 12:12:29,959 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Vehicle 3D Model.url
+2026-03-24 12:12:30,067 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Vehicles3D.txt
+2026-03-24 12:12:30,177 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Warhammer - WarGame STL 3D Print.txt
+2026-03-24 12:12:30,285 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Warhammer - WarGame.url
+2026-03-24 12:12:30,395 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\WH-WG.txt
+2026-03-24 12:12:30,629 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\WH40k.stl
+2026-03-24 12:12:30,751 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\+NSFW.txt
+2026-03-24 12:12:30,859 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\+NSFW.url
+2026-03-24 12:12:30,970 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\Miniatures.txt
+2026-03-24 12:12:31,079 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\Print.STL
+2026-03-24 12:12:31,186 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\Star Wars.txt
+2026-03-24 12:12:31,293 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\Star Wars.url
+2026-03-24 12:12:31,405 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\STL 3D Print.url
+2026-03-24 12:12:31,512 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\STL Anime.txt
+2026-03-24 12:12:31,621 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\STL Comics.txt
+2026-03-24 12:12:31,786 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\STL Free.stl
+2026-03-24 12:12:31,900 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\STL Game.txt
+2026-03-24 12:12:32,009 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\STL Me.url
+2026-03-24 12:12:32,211 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\SW.stl
+2026-03-24 12:12:32,319 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\SW.txt
+2026-03-24 12:12:32,430 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\Vehicle 3D Model.url
+2026-03-24 12:12:32,540 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\Vehicles3D.txt
+2026-03-24 12:12:32,647 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\Warhammer - WarGame STL 3D Print.txt
+2026-03-24 12:12:32,756 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\Warhammer - WarGame.url
+2026-03-24 12:12:32,865 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\WH-WG.txt
+2026-03-24 12:12:33,083 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\Pack\WH40k.stl
+2026-03-24 12:12:33,206 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\+NSFW.txt
+2026-03-24 12:12:33,315 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\+NSFW.url
+2026-03-24 12:12:33,424 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\Miniatures.stl
+2026-03-24 12:12:33,532 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\pack.stl
+2026-03-24 12:12:33,642 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\Pad.STL
+2026-03-24 12:12:33,748 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\STL Anime.txt
+2026-03-24 12:12:33,858 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\STL Boost.jpg
+2026-03-24 12:12:33,965 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\STL Boost.txt
+2026-03-24 12:12:34,076 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\STL Comics.txt
+2026-03-24 12:12:34,253 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\STL Free.stl
+2026-03-24 12:12:34,374 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\STL Game.txt
+2026-03-24 12:12:34,481 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\STL Me.url
+2026-03-24 12:12:34,591 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\SW(1).txt
+2026-03-24 12:12:34,699 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\SW.txt
+2026-03-24 12:12:34,919 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\Telegram Channel Free Models.stl
+2026-03-24 12:12:35,028 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Skytube Sexy JK girl\STL PACK\STL Boost\WH-WG.txt
+2026-03-24 12:45:35,701 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 12:45:35,863 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-24 12:45:37,029 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\Cammy - Street Fighter - Street Dancer Version - Collectible - 3D Print Model
+2026-03-24 12:45:37,186 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Cammy - Street Fighter - Street Dancer Version - Collectible - 3D Print Model\3D Models.txt
+2026-03-24 12:45:38,829 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Cammy - Street Fighter - Street Dancer Version - Collectible - 3D Print Model\DesireFX.me.stl
+2026-03-24 12:45:38,951 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Cammy - Street Fighter - Street Dancer Version - Collectible - 3D Print Model\Pad.STL
+2026-03-24 12:45:39,116 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Cammy - Street Fighter - Street Dancer Version - Collectible - 3D Print Model\STL Free.stl
+2026-03-24 12:45:39,379 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Cammy - Street Fighter - Street Dancer Version - Collectible - 3D Print Model\Telegram Channel Free Models.stl
+2026-03-24 12:45:39,504 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Cammy - Street Fighter - Street Dancer Version - Collectible - 3D Print Model\Telegram- Contact CG Model.url
+2026-03-24 13:27:53,813 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-24 13:27:55,487 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\Bulkamancer Sculpts – Aloy – Horizon – 3D Print Model STL
+2026-03-24 13:27:55,644 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Bulkamancer Sculpts – Aloy – Horizon – 3D Print Model STL\3D Models.txt
+2026-03-24 13:27:56,315 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Bulkamancer Sculpts – Aloy – Horizon – 3D Print Model STL\DesireFX.me.stl
+2026-03-24 13:27:56,434 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Bulkamancer Sculpts – Aloy – Horizon – 3D Print Model STL\Pad.STL
+2026-03-24 13:27:56,600 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Bulkamancer Sculpts – Aloy – Horizon – 3D Print Model STL\STL Free.stl
+2026-03-24 13:27:56,829 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Bulkamancer Sculpts – Aloy – Horizon – 3D Print Model STL\Telegram Channel Free Models.stl
+2026-03-24 13:27:56,950 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Bulkamancer Sculpts – Aloy – Horizon – 3D Print Model STL\Telegram- Contact CG Model.url
+2026-03-24 13:41:48,906 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 13:41:49,022 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-24 13:41:50,492 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\CA 3D Studios – Pirotess – 3D Print Model STL\images
+2026-03-24 13:41:50,640 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\CA 3D Studios – Pirotess – 3D Print Model STL\images\3D Models.txt
+2026-03-24 13:41:50,797 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\CA 3D Studios – Pirotess – 3D Print Model STL\images\DesireFX.me.stl
+2026-03-24 13:41:50,916 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\CA 3D Studios – Pirotess – 3D Print Model STL\images\Pad.STL
+2026-03-24 13:41:52,480 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\CA 3D Studios – Pirotess – 3D Print Model STL\images\STL Free.stl
+2026-03-24 13:41:52,690 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\CA 3D Studios – Pirotess – 3D Print Model STL\images\Telegram Channel Free Models.stl
+2026-03-24 13:41:52,817 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\CA 3D Studios – Pirotess – 3D Print Model STL\images\Telegram- Contact CG Model.url
+2026-03-24 13:47:30,099 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-24 13:47:31,811 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\OXO3D_Figures_Fem_Scorpion_Renders
+2026-03-24 13:47:31,961 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\OXO3D_Figures_Fem_Scorpion_Renders\3D Print Today.txt
+2026-03-24 13:48:07,161 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 13:48:07,292 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-24 13:48:08,823 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK
+2026-03-24 13:48:08,968 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\+NSFW.txt
+2026-03-24 13:48:09,080 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\+NSFW.url
+2026-03-24 13:48:09,193 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\3D Print Models STL.url
+2026-03-24 13:48:09,309 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Base.stl
+2026-03-24 13:48:09,421 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Board.stl
+2026-03-24 13:48:09,530 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Miniatures STL.url
+2026-03-24 13:48:09,642 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Miniatures.STL
+2026-03-24 13:48:09,750 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Miniatures.txt
+2026-03-24 13:48:09,862 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Pad.STL
+2026-03-24 13:48:09,978 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Print.STL
+2026-03-24 13:48:10,093 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\PrintMe.txt
+2026-03-24 13:48:10,198 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Star Wars.txt
+2026-03-24 13:48:10,302 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Star Wars.url
+2026-03-24 13:48:10,409 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL 3D Print.txt
+2026-03-24 13:48:10,515 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL 3D Print.url
+2026-03-24 13:48:10,619 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Anime.txt
+2026-03-24 13:48:10,733 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Comics.txt
+2026-03-24 13:48:10,901 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Free.stl
+2026-03-24 13:48:11,016 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Game.txt
+2026-03-24 13:48:11,123 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Me.url
+2026-03-24 13:48:11,302 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\SW.stl
+2026-03-24 13:48:11,428 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\SW.txt
+2026-03-24 13:48:11,543 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Torso.STL
+2026-03-24 13:48:11,648 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Vehicle 3D Model.url
+2026-03-24 13:48:11,765 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Vehicles3D.txt
+2026-03-24 13:48:11,876 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Warhammer - WarGame STL 3D Print.txt
+2026-03-24 13:48:11,986 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\Warhammer - WarGame.url
+2026-03-24 13:48:12,100 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\WH-WG.txt
+2026-03-24 13:48:12,315 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\WH40k.stl
+2026-03-24 13:48:12,429 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\+NSFW.txt
+2026-03-24 13:48:12,543 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\+NSFW.url
+2026-03-24 13:48:12,655 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\Miniatures.stl
+2026-03-24 13:48:12,769 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\pack.stl
+2026-03-24 13:48:12,886 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\Pad.STL
+2026-03-24 13:48:12,997 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\STL Anime.txt
+2026-03-24 13:48:13,112 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\STL Boost.jpg
+2026-03-24 13:48:13,223 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\STL Boost.txt
+2026-03-24 13:48:13,331 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\STL Comics.txt
+2026-03-24 13:48:13,480 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\STL Free.stl
+2026-03-24 13:48:13,606 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\STL Game.txt
+2026-03-24 13:48:13,712 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\STL Me.url
+2026-03-24 13:48:13,818 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\SW(1).txt
+2026-03-24 13:48:13,934 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\SW.txt
+2026-03-24 13:48:14,169 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\Telegram Channel Free Models.stl
+2026-03-24 13:48:14,286 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\OXO3D Figures - Fem Scorpion 180mm\STL PACK\STL Boost\WH-WG.txt
+2026-03-24 13:50:02,464 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 13:50:02,602 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-24 13:50:04,128 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK
+2026-03-24 13:50:04,268 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\+NSFW.txt
+2026-03-24 13:50:04,375 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\+NSFW.url
+2026-03-24 13:50:04,488 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\3D Print Models STL.url
+2026-03-24 13:50:04,594 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\3D Print Today.txt
+2026-03-24 13:50:04,699 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Base.stl
+2026-03-24 13:50:04,815 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Board.stl
+2026-03-24 13:50:04,926 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Miniatures STL.url
+2026-03-24 13:50:05,039 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Miniatures.STL
+2026-03-24 13:50:05,149 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Miniatures.txt
+2026-03-24 13:50:05,265 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pad.STL
+2026-03-24 13:50:05,382 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Print.STL
+2026-03-24 13:50:05,498 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\PrintMe.txt
+2026-03-24 13:50:05,603 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Star Wars.txt
+2026-03-24 13:50:05,717 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Star Wars.url
+2026-03-24 13:50:05,827 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL 3D Print.txt
+2026-03-24 13:50:05,939 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL 3D Print.url
+2026-03-24 13:50:06,050 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Anime.txt
+2026-03-24 13:50:06,159 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Comics.txt
+2026-03-24 13:50:06,325 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Free.stl
+2026-03-24 13:50:06,448 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Game.txt
+2026-03-24 13:50:06,555 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Me.url
+2026-03-24 13:50:06,739 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\SW.stl
+2026-03-24 13:50:06,854 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\SW.txt
+2026-03-24 13:50:06,966 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Torso.STL
+2026-03-24 13:50:07,079 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Vehicle 3D Model.url
+2026-03-24 13:50:07,195 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Vehicles3D.txt
+2026-03-24 13:50:07,309 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Warhammer - WarGame STL 3D Print.txt
+2026-03-24 13:50:07,421 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Warhammer - WarGame.url
+2026-03-24 13:50:07,528 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\WH-WG.txt
+2026-03-24 13:50:07,745 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\WH40k.stl
+2026-03-24 13:50:07,867 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\+NSFW.txt
+2026-03-24 13:50:07,982 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\+NSFW.url
+2026-03-24 13:50:08,092 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\Miniatures.txt
+2026-03-24 13:50:08,204 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\Print.STL
+2026-03-24 13:50:08,317 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\Star Wars.txt
+2026-03-24 13:50:08,427 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\Star Wars.url
+2026-03-24 13:50:08,533 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\STL 3D Print.url
+2026-03-24 13:50:08,638 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\STL Anime.txt
+2026-03-24 13:50:08,754 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\STL Comics.txt
+2026-03-24 13:50:08,911 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\STL Free.stl
+2026-03-24 13:50:09,023 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\STL Game.txt
+2026-03-24 13:50:09,131 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\STL Me.url
+2026-03-24 13:50:09,324 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\SW.stl
+2026-03-24 13:50:09,448 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\SW.txt
+2026-03-24 13:50:09,564 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\Vehicle 3D Model.url
+2026-03-24 13:50:09,676 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\Vehicles3D.txt
+2026-03-24 13:50:09,785 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\Warhammer - WarGame STL 3D Print.txt
+2026-03-24 13:50:09,894 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\Warhammer - WarGame.url
+2026-03-24 13:50:10,002 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\WH-WG.txt
+2026-03-24 13:50:10,224 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\Pack\WH40k.stl
+2026-03-24 13:50:10,342 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\+NSFW.txt
+2026-03-24 13:50:10,445 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\+NSFW.url
+2026-03-24 13:50:10,548 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\Miniatures.stl
+2026-03-24 13:50:10,652 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\pack.stl
+2026-03-24 13:50:10,757 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\Pad.STL
+2026-03-24 13:50:10,868 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\STL Anime.txt
+2026-03-24 13:50:10,971 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\STL Boost.jpg
+2026-03-24 13:50:11,073 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\STL Boost.txt
+2026-03-24 13:50:11,177 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\STL Comics.txt
+2026-03-24 13:50:11,333 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\STL Free.stl
+2026-03-24 13:50:11,447 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\STL Game.txt
+2026-03-24 13:50:11,549 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\STL Me.url
+2026-03-24 13:50:11,654 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\SW(1).txt
+2026-03-24 13:50:11,765 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\SW.txt
+2026-03-24 13:50:11,991 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\Telegram Channel Free Models.stl
+2026-03-24 13:50:12,103 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Gatsu Studios - 2B - Nier Automata Bust\STL PACK\STL Boost\WH-WG.txt
+2026-03-24 15:32:32,191 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 15:32:32,339 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-24 15:32:34,073 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Oriental_Orgy_World_2
+2026-03-24 15:32:34,097 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Oriental_Orgy_World_4
+2026-03-24 15:32:34,113 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Oriental_Orgy_World_5
+2026-03-24 18:39:59,083 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-24 18:40:00,611 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\sanet.st_Supertramp_-_Breakfast_In_America_(Remastered_2026)_24\sanet.st_Supertramp - Breakfast In America (Remastered 2026)
+2026-03-24 18:40:04,315 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-24 18:40:05,849 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_Supertramp_-_Breakfast_In_America_(Remastered_2026)_24\sanet.st_Supertramp - Breakfast In America (Remastered 2026) [FLAC]
+2026-03-24 18:42:37,728 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-24 18:42:39,342 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\sanet.st_Supertramp_-_Breakfast_In_America_(Remastered_2026)-320\Supertramp - Breakfast In America (Remastered 2026)-320
+2026-03-24 18:44:21,688 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:44:21,855 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-03-24 18:44:21,968 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:44:22,048 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-24 18:44:23,557 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\sanet.st_Supertramp_-_Breakfast_In_America_(Remastered_2026)\Supertramp - Breakfast In America (Remastered 2026)
+2026-03-24 18:45:18,586 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:45:18,693 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-24 18:45:20,584 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Super_Naturals_3_2005
+2026-03-24 18:45:37,633 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:45:37,875 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-24 18:45:39,403 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.03.24.Juniper.Ren.And.Liora.Vane.Two.Slutty.Pussies.One.Girthy.Cock.1080p.sanet
+2026-03-24 18:45:44,193 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:45:44,221 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-24 18:45:45,877 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.03.24.Juniper.Ren.And.Liora.Vane.Two.Slutty.Pussies.One.Girthy.Cock.1080p\BrazzersExxtra.26.03.24.Juniper.Ren.And.Liora.Vane.Two.Slutty.Pussies.One.Girthy.Cock.1080p.sanet.st.mp4
+2026-03-24 18:46:11,932 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:46:12,171 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-24 18:46:14,003 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\sanet.st_Supertramp_-_Even_In_The_Quietest_Moments..._(Remastered_2026)_24\sanet.st_Supertramp - Even In The Quietest Moments... (Remastered 2026) 24
+2026-03-24 18:46:29,288 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:46:29,435 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-24 18:46:31,804 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_Supertramp_-_Even_In_The_Quietest_Moments..._(Remastered_2026)_24\sanet.st_Supertramp - Even In The Quietest Moments... (Remastered 2026) [FLAC] [24bit]
+2026-03-24 18:47:24,122 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:47:24,188 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-24 18:47:25,851 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\sanet.st_Supertramp_-_Even_In_The_Quietest_Moments..._(Remastered_2026)\Supertramp - Even In The Quietest Moments... (Remastered 2026)
+2026-03-24 18:47:39,321 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:47:39,556 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-24 18:47:41,666 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\sanet.st_Supertramp_-_Even_In_The_Quietest_Moments..._(Remastered_2026)-320\Supertramp - Even In The Quietest Moments... (Remastered 2026)-320
+2026-03-24 18:49:17,189 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:49:17,314 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-24 18:49:18,982 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\sanet.st_Supertramp_-_...Famous_Last_Words..._(Remastered_2026)_24\sanet.st_Supertramp - ...Famous Last Words... (Remastered 2026) 24
+2026-03-24 18:49:43,137 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:49:43,171 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-24 18:49:44,667 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\sanet.st_Supertramp_-_...Famous_Last_Words..._(Remastered_2026)\Supertramp - ...Famous Last Words... (Remastered 2026)
+2026-03-24 18:50:17,651 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-24 18:50:18,994 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\sanet.st_Supertramp_-_...Famous_Last_Words..._(Remastered_2026)-320\Supertramp - ...Famous Last Words... (Remastered 2026)-320
+2026-03-24 18:54:50,566 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:54:50,777 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-24 18:54:52,857 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Sanet.st.Bruno Mars - The Romantic (2026) Hi-Res\Bruno Mars - The Romantic (2026) Hi-Res
+2026-03-24 18:55:01,708 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:55:02,066 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-24 18:55:03,592 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Sanet.st.Bruno Mars - The Romantic (2026) Hi-Res\Bruno Mars - The Romantic (2026) Hi-Res
+2026-03-24 18:55:17,400 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 18:55:17,409 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-24 18:55:19,237 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Sanet.st.Bruno Mars - The Romantic (2026) Hi-Res\Bruno Mars - The Romantic (2026) Hi-Res
+2026-03-24 19:09:15,688 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-24 19:09:15,741 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 19:09:15,956 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-24 19:09:17,426 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Mastering_Cloud_Computing.sanet
+2026-03-24 19:09:25,813 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 19:09:25,929 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-24 19:09:27,408 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Ready.or.Not.2.Here.I.Come.2026.1080p.TELESYNC.x264-SyncUP_SANET
+2026-03-24 19:09:41,215 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-24 19:09:41,271 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-24 19:09:42,941 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Ready.or.Not.2.Here.I.Come.2026.1080p.TELESYNC.x264-SyncUP
+2026-03-25 10:29:20,729 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-25 10:29:22,220 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Blacked.25.11.19.Blake.Blossom.Sky.Wonderland.And.Scarlett.Skies.1080p.sanet\Blacked.25.11.19.Blake.Blossom.Sky.Wonderland.And.Scarlett.Skies.1080p.sanet.st.mp4
+2026-03-25 10:29:27,289 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-25 10:29:28,742 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Blacked.25.11.19.Blake.Blossom.Sky.Wonderland.And.Scarlett.Skies.1080p.sanet
+2026-03-25 10:59:46,074 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-25 10:59:46,186 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-25 10:59:47,682 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Linux Shell Scripting for Hackers Automate and scale your hacking process with bash scripting.sanet
+2026-03-25 10:59:52,416 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-25 10:59:52,449 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-25 10:59:53,977 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Linux Shell Scripting for Hackers Automate and scale your hacking process with bash scripting\Linux Shell Scripting for Hackers Automate and scale your hacking process with bash scripting.sanet.st.pdf
+2026-03-26 08:31:26,942 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-26 08:31:26,959 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-26 08:31:27,240 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-26 08:31:27,337 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel4
+2026-03-26 08:31:28,909 [1] INFO System.Windows.Forms.Form - Folder to renumering files:E:\Downloads\Tlameteotl - Star Wars  - No Hope\Tlameteotl - Star Wars  - No Hope
+2026-03-26 10:02:19,827 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-26 10:02:19,900 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-26 10:02:21,445 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st.fstwmnlrhs
+2026-03-26 10:02:29,982 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-26 10:02:30,057 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-26 10:02:31,632 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\fstwmnlrhs\sanet.st.fstwmnlrhs
+2026-03-26 10:12:57,955 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-26 10:12:58,043 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-26 10:12:59,606 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Fit_For_Fucking_2026
+2026-03-26 10:14:14,614 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-26 10:14:16,215 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Mastering Cloud Computing
+2026-03-26 10:14:31,189 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-26 10:14:32,862 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Foxit_PDF_Editor_Pro_14.0.3.sanet
+2026-03-26 12:05:05,701 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-26 12:05:07,274 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\OnlyTarts.25.12.26.Ariana.Cortez.Noi.Feja.And.Peach.Delina.1080p.sanet
+2026-03-26 15:42:25,445 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-26 15:42:27,111 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Games\Chun-Li V2 – 3D Print Model STL
+2026-03-26 15:42:27,308 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Chun-Li V2 – 3D Print Model STL\3D Models.txt
+2026-03-26 15:42:28,311 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Chun-Li V2 – 3D Print Model STL\DesireFX.me.stl
+2026-03-26 15:42:28,430 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Chun-Li V2 – 3D Print Model STL\Pad.STL
+2026-03-26 15:42:28,598 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Chun-Li V2 – 3D Print Model STL\STL Free.stl
+2026-03-26 15:42:28,832 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Chun-Li V2 – 3D Print Model STL\Telegram Channel Free Models.stl
+2026-03-26 15:42:28,957 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Games\Chun-Li V2 – 3D Print Model STL\Telegram- Contact CG Model.url
+2026-03-26 15:46:17,927 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-26 15:46:18,139 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-26 15:46:19,801 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model
+2026-03-26 15:46:19,941 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\+NSFW.url
+2026-03-26 15:46:20,362 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\Miniatures STL.url
+2026-03-26 15:46:20,578 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\PrintMe.txt
+2026-03-26 15:46:20,797 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\STL Me.url
+2026-03-26 15:46:20,907 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\STL Sup Info.url
+2026-03-26 15:46:21,020 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\Bust_NSFW\Bases.stl
+2026-03-26 15:46:21,379 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\Bust_NSFW\Dental.STL
+2026-03-26 15:46:22,412 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\Head\Bases.stl
+2026-03-26 15:46:22,522 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\Head\Dental.STL
+2026-03-26 15:46:24,774 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\Head_Eyepatch\Bases.stl
+2026-03-26 15:46:24,884 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\Head_Eyepatch\Dental.STL
+2026-03-26 15:46:28,116 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\Merged_NSFW\Bases.stl
+2026-03-26 15:46:28,223 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\Merged_NSFW\Dental.STL
+2026-03-26 15:46:29,695 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\nsfw\+NSFW.url
+2026-03-26 15:46:30,211 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\nsfw\Miniatures STL.url
+2026-03-26 15:46:30,322 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\nsfw\PrintMe.txt
+2026-03-26 15:46:30,432 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\nsfw\STL Me.url
+2026-03-26 15:46:30,540 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\nsfw\STL Sup Info.url
+2026-03-26 15:46:31,593 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\Sword_Maiden_NSFW\Bases.stl
+2026-03-26 15:46:31,701 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model\Sword_Maiden_NSFW\Dental.STL
+2026-03-26 15:59:12,550 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-26 15:59:12,559 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-26 15:59:14,144 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\Peach Figure - Sword Maiden NSFW - 3D Print Model
+2026-03-26 17:54:33,236 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-26 17:54:33,442 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-26 17:54:35,116 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_man
+2026-03-26 17:54:35,152 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st.Raspberry_Pi_-_Issue_164,_April_2026
+2026-03-26 17:54:35,181 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\The_Ultimate_Docker_Container_Book.sanet
+2026-03-26 17:54:35,209 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_world-book-day-icons
+2026-03-26 17:54:35,224 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_public-service-icons
+2026-03-26 17:54:35,241 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_construction-tool-icons
+2026-03-26 17:54:35,259 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_5g-network-icon-set
+2026-03-26 17:54:35,275 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_cloud-network-outline-icon-set
+2026-03-26 17:54:35,292 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_folder-types-icon-pack
+2026-03-26 17:54:35,309 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_computer-security
+2026-03-26 17:55:12,609 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-26 17:55:12,905 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-26 17:55:14,408 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_Your_Own_VPN_Server_in_30_Mins_Multiple_Protocols_No_Coding
+2026-03-27 09:55:54,663 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-27 09:55:56,245 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_Tina_Turner_-_Queen_Of_Rock_'n'_RollMP3
+2026-03-27 09:56:05,374 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-27 09:56:05,400 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-27 09:56:06,949 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_Tina_Turner_-_Queen_Of_Rock_'n'_RollFLAC_(16bit-44.1kHz)
+2026-03-27 10:23:18,188 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-27 10:23:18,301 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-27 10:23:20,054 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_Aerosmith_-_The_Best_Of_(The_Millennium_Collection)_24
+2026-03-27 10:38:19,377 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-27 10:38:20,558 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Supertramp_-_The_Very_Best_Of_(1990)_MP3
+2026-03-27 10:38:20,598 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Supertramp_-_The_Very_Best_Of_(1990)_FLAC
+2026-03-27 10:38:20,611 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Supertramp_-_The_Very_Best_Of_(1990)_Hi-Res
+2026-03-27 10:38:27,383 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-27 10:38:27,500 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-27 10:38:29,332 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Supertramp - The Very Best Of (1990) MP3
+2026-03-27 10:38:29,374 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Supertramp - The Very Best Of (1990) FLAC
+2026-03-27 10:38:29,394 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Supertramp - The Very Best Of (1990) Hi-Res
+2026-03-27 10:39:05,240 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-27 10:39:05,250 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-27 10:39:07,247 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Supertramp - The Very Best Of (1990) Hi-Res
+2026-03-27 10:39:07,263 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Supertramp - The Very Best Of (1990) FLAC
+2026-03-27 10:39:07,277 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Supertramp - The Very Best Of (1990) MP3
+2026-03-27 10:39:43,490 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-27 10:39:43,546 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-03-27 10:39:43,602 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-27 10:39:43,628 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-27 10:39:45,135 [1] INFO System.Windows.Forms.Form - Clean Filename:O:\Music\Artist\Supertramp\sanet.st_Supertramp - ...Famous Last Words... (Remastered 2026) [FLAC] [24bit]
+2026-03-27 10:41:45,441 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-27 10:41:45,644 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-27 10:41:47,347 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SupertrampVeryBestOf1992LP24192sanet
+2026-03-27 10:41:52,414 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-27 10:41:52,534 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-27 10:41:54,122 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\GunsNRosesGreatestHits2LPDSDsanet
+2026-03-27 10:41:59,214 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-27 10:41:59,301 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-27 10:42:00,786 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\GunsNRosesGreatestHits2LPDSD\GunsNRosesGreatestHits2LPDSDsanet.st
+2026-03-27 11:35:33,114 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-27 11:35:33,225 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-27 11:35:34,768 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SupertrampVeryBestOf1992LP24192\SupertrampVeryBestOf1992LP24192sanet.st
+2026-03-27 17:38:37,625 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-27 17:38:37,766 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-27 17:38:39,400 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-Digital Camera User Magazine - March 2026
+2026-03-30 12:12:01,904 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-30 12:12:01,936 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-30 12:12:01,972 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel4
+2026-03-30 12:12:03,521 [1] INFO System.Windows.Forms.Form - Folder to renumering files:E:\Downloads\man\man\man\Nice X Collectibles - Batman
+2026-03-30 12:12:10,598 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-30 12:12:10,636 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-30 12:12:10,722 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-30 12:12:10,986 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-03-30 12:12:12,629 [1] INFO System.Windows.Forms.Form - Folder to clean:E:\Downloads\man\man\man\Nice X Collectibles - Batman
+2026-03-30 12:33:50,008 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-30 12:33:50,105 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-30 12:33:51,664 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\MyGirlfriendsBustyFriend.26.03.30.Ariana.Starr.1080p.sanet
+2026-03-30 13:49:13,058 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-30 13:49:13,128 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-30 13:49:14,693 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-The.Best.of.Forbiden.Scnes.21_2026
+2026-03-30 13:49:14,756 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-The_Best_Of_Forbidden_Scenes_22_2026
+2026-03-30 13:49:14,841 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-The.Best.of.Forbidden.Scenes.23_2026
+2026-03-30 14:08:05,553 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-30 14:08:05,619 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-30 14:08:07,627 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Cronache_di_una_carriera_annunciata_1990s
+2026-03-31 10:15:59,400 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 10:16:01,036 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.03Of.ZZ.Romi.Rain.1080p.sanet
+2026-03-31 10:16:01,677 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.24.10.07.Fucking.The.Police.The.Best.Of.Hot.Cops.1080p.sanet
+2026-03-31 10:16:01,691 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.02.10.Shared.PleasureOf.Couples.Fantasies.1080p.sanet
+2026-03-31 10:16:01,704 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st.dstdlfbnrs2
+2026-03-31 10:16:01,717 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\xaGina&AllyThreesomePresent1080.sanet
+2026-03-31 10:16:21,408 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 10:16:21,521 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 10:16:23,124 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.03Of.ZZ.Romi.Rain.1080p\BrazzersExxtra.26.03Of.ZZ.Romi.Rain.1080p.sanet.st.mp4
+2026-03-31 10:16:42,148 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 10:16:42,215 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 10:16:43,848 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.03Of.ZZ.Romi.Rain.1080p\BrazzersExxtra.26.03Of.ZZ.Romi.Rain.1080p.sanet.st.mp4
+2026-03-31 10:16:52,398 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 10:16:53,984 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.24.10.07.Fucking.The.Police.The.Best.Of.Hot.Cops.1080p\BrazzersExxtra.24.10.07.Fucking.The.Police.The.Best.Of.Hot.Cops.1080p.sanet.st.mp4
+2026-03-31 10:17:01,193 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 10:17:01,335 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 10:17:02,973 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.02.10.Shared.PleasureOf.Couples.Fantasies.1080p\BrazzersExxtra.26.02.10.Shared.PleasureOf.Couples.Fantasies.1080p.sanet.st.mp4
+2026-03-31 10:17:10,999 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 10:17:11,127 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 10:17:12,874 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\dstdlfbnrs2\sanet.st.dstdlfbnrs2
+2026-03-31 10:18:46,894 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 10:18:46,977 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-03-31 10:18:47,243 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 10:18:47,281 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 10:18:49,062 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\xaGina&AllyThreesomePresent1080
+2026-03-31 10:20:48,501 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 10:20:48,510 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 10:20:50,166 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Hawaii_Vice_3_1989
+2026-03-31 10:20:50,206 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Hawaii_Vice_5_1989
+2026-03-31 10:22:29,382 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 10:22:29,476 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 10:22:31,108 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Queen_-_Queen_I_(Collector’s_Edition)_(2024)_MP3
+2026-03-31 10:22:31,145 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Queen_-_Queen_I_(Collector’s_Edition)_(2024)_Hi-Res
+2026-03-31 10:22:37,613 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 10:22:37,644 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel4
+2026-03-31 10:22:38,325 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 10:22:38,348 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-31 10:22:39,869 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Queen - Queen I (Collector’s Edition) (2024) MP3
+2026-03-31 11:20:54,882 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 11:20:54,974 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 11:20:56,816 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Hawaii_Vice_2_1989
+2026-03-31 11:20:56,865 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Hawaii_Vice_1_1988
+2026-03-31 11:20:56,912 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Hawaii_Vice_4_1989
+2026-03-31 11:20:56,949 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Hawaii_Vice_7_1989
+2026-03-31 12:47:28,219 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 12:47:28,300 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 12:47:30,010 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\The.Alice.Paradox.2026.1080p.SCREENER.WEB-DL.H264.AAC-AOC_SANET
+2026-03-31 12:49:47,327 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 12:49:48,921 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Avatar.Fire.and.Ash.2025.1080p.WEBRip.10Bit.DDP.5.1.x265-NeoNoir_SANET
+2026-03-31 13:11:09,644 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 13:11:09,671 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 13:11:11,224 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_Complete n8n Automation Course 20 Real-World Projects
+2026-03-31 18:20:27,343 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 18:20:27,521 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 18:20:29,062 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Butans.Doue.Advenre1993
+2026-03-31 23:12:20,555 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 23:12:22,178 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.PCQuest_-_March_2026
+2026-03-31 23:12:31,962 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 23:12:32,052 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-03-31 23:12:32,111 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 23:12:32,180 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-03-31 23:12:33,662 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\PCQuest - March 2026\PCQuest - March 2026.pdf
+2026-03-31 23:12:35,494 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-03-31 23:14:29,577 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-03-31 23:14:29,706 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 23:14:31,426 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st.Sound___Image_-_Issue_366,_2026
+2026-03-31 23:27:06,696 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-03-31 23:27:08,287 [1] INFO System.Windows.Forms.Form - Clean Filename:C:\Users\Dell\Downloads\Jing.Wu.Chen.Zhen.2026.2160p.WEB-DL.AAC.H.265-HDSWEB_SANET
+2026-04-01 15:02:21,858 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-01 15:02:23,729 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\SANET.ST-Private_Eye_2003
+2026-04-01 15:06:53,930 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-01 15:06:53,974 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-01 15:06:55,558 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Solar_Power_For_Dummies.sanet
+2026-04-01 15:07:00,291 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-01 15:07:00,424 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-01 15:07:01,975 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_Ultimate_Python_Programming_nodrm
+2026-04-01 15:07:13,055 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-01 15:07:13,072 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-01 15:07:14,581 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\RKPrime.26.01.07.Aleksa.Mink.Big.Brat.Pizza.Shop.1080p.sanet
+2026-04-02 09:53:20,773 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 09:53:22,353 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st.brblbtnst18
+2026-04-02 09:53:25,440 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 09:53:25,760 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 09:53:27,361 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st.bstdrsklsr7
+2026-04-02 09:53:34,716 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 09:53:34,802 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 09:53:36,533 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\BrazzersExxtra.26.03.18.Elana.Bunnz.Nia.Bleu.Ruby.Divine.And.Mira.Luv.Boobie.Wash.1080p.sanet
+2026-04-02 09:53:40,361 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 09:53:40,369 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 09:53:41,932 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\RKPrime.26.01.07.Aleksa.Mink.Big.Brat.Pizza.Shop.1080p
+2026-04-02 09:53:50,097 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 09:53:51,655 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\brblbtnst18\sanet.st.brblbtnst18
+2026-04-02 09:53:59,491 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 09:54:01,027 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\bstdrsklsr7\sanet.st.bstdrsklsr7
+2026-04-02 10:37:19,113 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 10:37:19,149 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 10:37:20,958 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\TabooHeat.26.03.24.Amiee.Cambridge.Lola.Valentine.1080p.sanet
+2026-04-02 10:37:21,036 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\TabooHeat.26.03.26.Cory.Chase.Lilibet.Saunders.1080p.sanet
+2026-04-02 10:37:21,080 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\TabooHeat.26.03.27.Cory.Chase.Gigi.Sweets.1080p.sanet
+2026-04-02 10:37:21,121 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\TabooHeat.26.03.28.Gigi.Sweets.Cory.Chase.1080p.sanet
+2026-04-02 10:38:30,461 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 10:38:30,475 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 10:38:32,124 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Queen_-_A_Kind_Of_Magic_(Deluxe_Version)_(2011)_MP3
+2026-04-02 10:38:32,144 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Queen_-_A_Kind_Of_Magic_(Deluxe_Version)_(2011)_FLAC
+2026-04-02 10:38:38,540 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 10:38:38,711 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-04-02 10:38:39,042 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 10:38:39,088 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel4
+2026-04-02 10:38:39,650 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 10:38:39,670 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-04-02 10:38:41,216 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Queen - A Kind Of Magic (Deluxe Version) (2011) MP3
+2026-04-02 10:38:41,259 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Queen - A Kind Of Magic (Deluxe Version) (2011) FLAC

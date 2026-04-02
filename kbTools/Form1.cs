@@ -8,6 +8,7 @@ using System.IO.Hashing;
 using log4net.Config;
 using log4net;
 using System.Reflection;
+using System.Runtime.InteropServices;
 using System.Threading;
 using System.Globalization;
 
@@ -18,6 +19,18 @@ namespace kbTools
         private static readonly ILog log = LogManager.GetLogger(typeof(Form));
         private int progessbar = 0;
         string Language = ConfigurationManager.AppSettings["Language"];
+
+        [Flags]
+        public enum RecycleFlags : uint
+        {
+            SHERB_NOCONFIRMATION = 0x00000001,
+            SHERB_NOPROGRESSUI = 0x00000002,
+            SHERB_NOSOUND = 0x00000004
+        }
+
+        [DllImport("Shell32.dll", CharSet = CharSet.Unicode)]
+        public static extern uint SHEmptyRecycleBin(IntPtr hwnd, string pszRootPath, RecycleFlags dwFlags);
+
 
         public Form1()
         {
@@ -44,6 +57,8 @@ namespace kbTools
                 e.Effect = DragDropEffects.None;
         }
 
+        #region Clean filenames - Drag & Drop Panels
+
         private void panel1_DragEnter(object sender, DragEventArgs e)
         {
             log.Info("OnDragEnter Panel1");
@@ -65,12 +80,25 @@ namespace kbTools
                     foreach (string filePath in filePaths)
                     {
                         log.Info("Clean Filename:" + filePath);
+                        if (chkRecursive.Checked)
+                        {
+                            string[] files = Directory.GetFiles(filePath, "*.*");
+                            foreach (string file in files)
+                            {
+                                CleanName(file);
+                            }
+                        }
                         CleanName(filePath);
+
                     }
                 }
                 SetStatusBarText(Idiomas.Listo);
             }
         }
+
+        #endregion
+
+        #region Change Month Name - Drag & Drop Panels
 
         private void panel2_DragEnter(object sender, DragEventArgs e)
         {
@@ -102,6 +130,10 @@ namespace kbTools
 
         }
 
+        #endregion
+
+        #region Append Filetype to Folder name - Drag & Drop Panels
+
         private void panel3_DragEnter(object sender, DragEventArgs e)
         {
             log.Info("OnDragEnter Panel3");
@@ -132,6 +164,10 @@ namespace kbTools
             }
         }
 
+        #endregion
+
+        #region Renumering filenames in folder - Drag & Drop Panels
+
         private void panel4_DragEnter(object sender, DragEventArgs e)
         {
             log.Info("OnDragEnter Panel4");
@@ -160,6 +196,10 @@ namespace kbTools
                 SetStatusBarText(Idiomas.Listo);
             }
         }
+
+        #endregion
+
+        #region Delete files acording to CRC - Drag & Drop Panel
 
         private void panel5_DragEnter(object sender, DragEventArgs e)
         {
@@ -204,6 +244,9 @@ namespace kbTools
 
             }
         }
+
+        #endregion
+
 
         private void cmdExit_Click(object sender, EventArgs e)
         {
@@ -290,6 +333,7 @@ namespace kbTools
 
             FileInfo[] Files = folder.GetFiles("*.*");
             string strExtToAssign = string.Empty;
+            string strExt = string.Empty;
 
             foreach (FileInfo file in Files)
             {
@@ -299,12 +343,22 @@ namespace kbTools
                     if (sExt.Contains(mExt.ext_music.ToLower()))
                     {
                         strExtToAssign = "[" + mExt.ext_music + "]";
+                        strExt = mExt.ext_music;
                     }
                 }
             }
             if (strExtToAssign.Length > 0)
             {
-                Directory.Move(FilePath, FilePath + " " + strExtToAssign);
+                if (FilePath.Contains(strExt) & !FilePath.Contains(strExtToAssign))
+                {
+                    string strTemp = FilePath.Substring(0, FilePath.IndexOf(strExt)-1) + " " + strExtToAssign;
+                    Directory.Move(FilePath, strTemp);
+                }
+                else if(!FilePath.Contains(strExtToAssign))
+                {
+                    Directory.Move(FilePath, FilePath + " " + strExtToAssign);
+                }
+                
             }
         }
 
@@ -324,29 +378,39 @@ namespace kbTools
             string[] files = Directory.GetFiles(FilePath, "*.*");
             string newFile = string.Empty;
 
-            foreach (string file in files)
+            foreach (char sep in string.Concat(" ", "."))
             {
-                newFile = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
-                iPos = newFile.IndexOf(" ");
-                int iNumber = int.Parse(newFile.Substring(0, iPos));
-                if (iNumber > iMaxNumber) iMaxNumber = iNumber;
-            }
-
-            iLength = iMaxNumber.ToString().Length;
-
-            foreach (string file in files)
-            {
-                string NewName = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
-                iPos = NewName.IndexOf(" ");
-                string iNumber = NewName.Substring(0, iPos);
-                while (iLength > iNumber.ToString().Length)
+                foreach (string file in files)
                 {
-                    NewName = "0" + NewName;
-                    iPos = NewName.IndexOf(" ");
-                    iNumber = NewName.Substring(0, iPos);
+                    newFile = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
+                    iPos = newFile.IndexOf(sep);
+                    if (iPos >= 0)
+                    {
+                        int iNumber = int.Parse(newFile.Substring(0, iPos));
+                        if (iNumber > iMaxNumber) iMaxNumber = iNumber;
+                    }
                 }
-                if (file != FilePath + "\\" + NewName)
-                    File.Move(file, FilePath + "\\" + NewName);
+
+                iLength = iMaxNumber.ToString().Length;
+
+                foreach (string file in files)
+                {
+                    string NewName = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
+                    iPos = NewName.IndexOf(sep);
+                    if (iPos >= 0)
+                    {
+                        string iNumber = NewName.Substring(0, iPos);
+                        while (iLength > iNumber.ToString().Length)
+                        {
+                            NewName = "0" + NewName;
+                            iPos = NewName.IndexOf(sep);
+                            iNumber = NewName.Substring(0, iPos);
+                        }
+                        if (file != FilePath + "\\" + NewName)
+                            File.Move(file, FilePath + "\\" + NewName);
+                    }
+                }
+
             }
         }
 
@@ -528,6 +592,19 @@ namespace kbTools
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Close();
+        }
+
+        private static void EmptyRecycleBin(IntPtr hwnd )
+        {
+            // Null pszRootPath empties all drives
+            SHEmptyRecycleBin(hwnd, null, RecycleFlags.SHERB_NOCONFIRMATION |
+                                          RecycleFlags.SHERB_NOPROGRESSUI |
+                                          RecycleFlags.SHERB_NOSOUND);
+        }
+
+        private void btnEmptyRecycleBin_Click(object sender, EventArgs e)
+        {
+            EmptyRecycleBin(this.Handle);
         }
     }
 
