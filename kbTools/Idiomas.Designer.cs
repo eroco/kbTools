@@ -70,6 +70,15 @@ namespace kbTools {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a Error.
+        /// </summary>
+        public static string Error {
+            get {
+                return ResourceManager.GetString("Error", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a Agregando extension archivo de música al nombre de la carpeta.
         /// </summary>
         public static string ExtensionMusica {

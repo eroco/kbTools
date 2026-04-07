@@ -195,14 +195,14 @@ namespace kbTools
             this.españolToolStripMenuItem.Name = "españolToolStripMenuItem";
             this.españolToolStripMenuItem.Size = new System.Drawing.Size(115, 22);
             this.españolToolStripMenuItem.Text = "Español";
-            this.españolToolStripMenuItem.Click += new System.EventHandler(this.españolToolStripMenuItem_Click);
+            this.españolToolStripMenuItem.Click += new System.EventHandler(this.EspañolToolStripMenuItem_Click);
             // 
             // inglesToolStripMenuItem
             // 
             this.inglesToolStripMenuItem.Name = "inglesToolStripMenuItem";
             this.inglesToolStripMenuItem.Size = new System.Drawing.Size(115, 22);
             this.inglesToolStripMenuItem.Text = "Ingles";
-            this.inglesToolStripMenuItem.Click += new System.EventHandler(this.inglesToolStripMenuItem_Click);
+            this.inglesToolStripMenuItem.Click += new System.EventHandler(this.InglesToolStripMenuItem_Click);
             // 
             // toolStripMenuItem1
             // 
@@ -214,7 +214,7 @@ namespace kbTools
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
             this.salirToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.salirToolStripMenuItem.Text = "Salir";
-            this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
+            this.salirToolStripMenuItem.Click += new System.EventHandler(this.SalirToolStripMenuItem_Click);
             // 
             // btnEmptyRecycleBin
             // 
@@ -224,7 +224,7 @@ namespace kbTools
             this.btnEmptyRecycleBin.TabIndex = 11;
             this.btnEmptyRecycleBin.Text = "Empty Bin";
             this.btnEmptyRecycleBin.UseVisualStyleBackColor = true;
-            this.btnEmptyRecycleBin.Click += new System.EventHandler(this.btnEmptyRecycleBin_Click);
+            this.btnEmptyRecycleBin.Click += new System.EventHandler(this.BtnEmptyRecycleBin_Click);
             // 
             // chkRecursive
             // 

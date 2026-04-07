@@ -120,6 +120,9 @@
   <data name="CorrigiendoMeses" xml:space="preserve">
     <value>Corrigiendo Meses</value>
   </data>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
   <data name="ExtensionMusica" xml:space="preserve">
     <value>Agregando extension archivo de música al nombre de la carpeta</value>
   </data>

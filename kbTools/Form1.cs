@@ -73,8 +73,7 @@ namespace kbTools
         {
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
             {
-                string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
-                if (filePaths != null && filePaths.Length > 0)
+                if (e.Data.GetData(DataFormats.FileDrop) is string[] filePaths && filePaths.Length > 0)
                 {
                     SetStatusBarText(Idiomas.Limpieza);
                     foreach (string filePath in filePaths)
@@ -115,15 +114,14 @@ namespace kbTools
         {
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
             {
-                string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
-                if (filePaths != null && filePaths.Length > 0)
+                if (e.Data.GetData(DataFormats.FileDrop) is string[] filePaths && filePaths.Length > 0)
                 {
                     SetStatusBarText(Idiomas.CorrigiendoMeses);
                     foreach (string filePath in filePaths)
                     {
                         RenameMonth(filePath);
                     }
-                        
+
                 }
                 SetStatusBarText(Idiomas.Listo);
             }
@@ -149,8 +147,7 @@ namespace kbTools
         {
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
             {
-                string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
-                if (filePaths != null && filePaths.Length > 0)
+                if (e.Data.GetData(DataFormats.FileDrop) is string[] filePaths && filePaths.Length > 0)
                 {
                     SetStatusBarText(Idiomas.ExtensionMusica);
                     foreach (string filePath in filePaths)
@@ -158,7 +155,7 @@ namespace kbTools
                         log.Info("File to Add Music extension:" + filePath);
                         AddMusicExtension(filePath);
                     }
-                        
+
                 }
                 SetStatusBarText(Idiomas.Listo);
             }
@@ -182,8 +179,7 @@ namespace kbTools
         {
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
             {
-                string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
-                if (filePaths != null && filePaths.Length > 0)
+                if (e.Data.GetData(DataFormats.FileDrop) is string[] filePaths && filePaths.Length > 0)
                 {
                     SetStatusBarText(Idiomas.Renumeracion);
                     foreach (string filePath in filePaths)
@@ -215,17 +211,17 @@ namespace kbTools
         {
             if (e.Data.GetDataPresent(DataFormats.FileDrop))
             {
-                string[] filePaths = e.Data.GetData(DataFormats.FileDrop) as string[];
-                if (filePaths != null && filePaths.Length > 0)
+                if (e.Data.GetData(DataFormats.FileDrop) is string[] filePaths && filePaths.Length > 0)
                 {
                     SetStatusBarText(Idiomas.LimpiezaCarpetas);
                     foreach (string filePath in filePaths)
                     {
                         log.Info("Folder to clean:" + filePath);
 
-                        RESTClient rClient = new RESTClient();
-
-                        rClient.endPoint = "http://api_kbtools/hexa.php";
+                        RESTClient rClient = new RESTClient
+                        {
+                            endPoint = "http://api_kbtools/hexa.php"
+                        };
 
                         string sJSON = string.Empty;
 
@@ -255,20 +251,21 @@ namespace kbTools
 
         private void CleanName(string Filename)
         {
-            RESTClient rClient = new RESTClient();
-
-            rClient.endPoint = "http://api_kbtools/tags.php";
+            RESTClient rClient = new RESTClient
+            {
+                endPoint = "http://api_kbtools/tags.php"
+            };
 
             string strJSON = string.Empty;
 
             strJSON = rClient.makeRequest();
-            List<tag> tags = JsonSerializer.Deserialize<List<tag>>(strJSON);
+            List<Tag> tags = JsonSerializer.Deserialize<List<Tag>>(strJSON);
 
             string oldName = Filename.Substring(Filename.LastIndexOf("\\") + 1, Filename.Length - Filename.LastIndexOf("\\") - 1);
             string origName = oldName;
             string oldPath = Filename.Substring(0, Filename.LastIndexOf("\\"));
 
-            foreach (tag mytag in tags)
+            foreach (Tag mytag in tags)
             {
                 if (oldName.Contains(mytag.input_tag))
                 {
@@ -292,20 +289,21 @@ namespace kbTools
 
         private void RenameMonth(string Filename)
         {
-            RESTClient rClient = new RESTClient();
-
-            rClient.endPoint = "http://api_kbtools/month.php";
+            RESTClient rClient = new RESTClient
+            {
+                endPoint = "http://api_kbtools/month.php"
+            };
 
             string strJSON = string.Empty;
 
             strJSON = rClient.makeRequest();
-            List<month> months = JsonSerializer.Deserialize<List<month>>(strJSON);
+            List<Month> months = JsonSerializer.Deserialize<List<Month>>(strJSON);
 
             string newName = Filename.Substring(Filename.LastIndexOf("\\") + 1, Filename.Length - Filename.LastIndexOf("\\") - 1);
             string origName = newName;
             string origPath = Filename.Substring(0, Filename.LastIndexOf("\\") + 1);
 
-            foreach (month mymonth in months)
+            foreach (Month mymonth in months)
             {
                 if (newName.Contains(mymonth.name_month))
                 {
@@ -319,15 +317,16 @@ namespace kbTools
 
         private void AddMusicExtension(string FilePath)
         {
-            RESTClient rClient = new RESTClient();
-
-            rClient.endPoint = "http://api_kbtools/music.php";
+            RESTClient rClient = new RESTClient
+            {
+                endPoint = "http://api_kbtools/music.php"
+            };
 
             string sJSON = string.Empty;
 
             sJSON = rClient.makeRequest();
 
-            List<musicExt> musicEXts = JsonSerializer.Deserialize<List<musicExt>>(sJSON);
+            List<MusicExt> musicEXts = JsonSerializer.Deserialize<List<MusicExt>>(sJSON);
 
             DirectoryInfo folder = new DirectoryInfo(FilePath);
 
@@ -338,7 +337,7 @@ namespace kbTools
             foreach (FileInfo file in Files)
             {
                 string sExt = file.Extension.Substring(1, file.Extension.Length - 1);
-                foreach (musicExt mExt in musicEXts)
+                foreach (MusicExt mExt in musicEXts)
                 {
                     if (sExt.Contains(mExt.ext_music.ToLower()))
                     {
@@ -378,40 +377,50 @@ namespace kbTools
             string[] files = Directory.GetFiles(FilePath, "*.*");
             string newFile = string.Empty;
 
-            foreach (char sep in string.Concat(" ", "."))
+            try
             {
-                foreach (string file in files)
+                foreach (char sep in string.Concat(".", " "))
                 {
-                    newFile = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
-                    iPos = newFile.IndexOf(sep);
-                    if (iPos >= 0)
+                    foreach (string file in files)
                     {
-                        int iNumber = int.Parse(newFile.Substring(0, iPos));
-                        if (iNumber > iMaxNumber) iMaxNumber = iNumber;
-                    }
-                }
-
-                iLength = iMaxNumber.ToString().Length;
-
-                foreach (string file in files)
-                {
-                    string NewName = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
-                    iPos = NewName.IndexOf(sep);
-                    if (iPos >= 0)
-                    {
-                        string iNumber = NewName.Substring(0, iPos);
-                        while (iLength > iNumber.ToString().Length)
+                        newFile = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
+                        iPos = newFile.IndexOf(sep);
+                        if (iPos >= 0)
                         {
-                            NewName = "0" + NewName;
-                            iPos = NewName.IndexOf(sep);
-                            iNumber = NewName.Substring(0, iPos);
+                            int iNumber = int.Parse(newFile.Substring(0, iPos));
+                            if (iNumber > iMaxNumber) iMaxNumber = iNumber;
                         }
-                        if (file != FilePath + "\\" + NewName)
-                            File.Move(file, FilePath + "\\" + NewName);
                     }
-                }
 
+                    iLength = iMaxNumber.ToString().Length;
+
+                    foreach (string file in files)
+                    {
+                        string NewName = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
+                        iPos = NewName.IndexOf(sep);
+                        if (iPos >= 0)
+                        {
+                            string iNumber = NewName.Substring(0, iPos);
+                            while (iLength > iNumber.ToString().Length)
+                            {
+                                NewName = "0" + NewName;
+                                iPos = NewName.IndexOf(sep);
+                                iNumber = NewName.Substring(0, iPos);
+                            }
+                            if (file != FilePath + "\\" + NewName)
+                                File.Move(file, FilePath + "\\" + NewName);
+                        }
+                    }
+
+                }
             }
+            catch (Exception ex)
+            {
+                SetStatusBarText(Idiomas.Error + ": " + ex.Message);
+                SetStatusBarText(Idiomas.Listo);
+            }
+
+            
         }
 
         private void ReNumberingFolders(string FilePath)
@@ -423,30 +432,40 @@ namespace kbTools
             string[] files = Directory.GetDirectories(FilePath, "*.*");
             string newFile = string.Empty;
 
-            foreach (string file in files)
+            try
             {
-                newFile = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
-                iPos = newFile.IndexOf(" ");
-                int iNumber = int.Parse(newFile.Substring(0, iPos));
-                if (iNumber > iMaxNumber) iMaxNumber = iNumber;
-            }
-
-            iLength = iMaxNumber.ToString().Length;
-
-            foreach (string file in files)
-            {
-                string NewName = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
-                iPos = NewName.IndexOf(" ");
-                string iNumber = NewName.Substring(0, iPos);
-                while (iLength > iNumber.ToString().Length)
+                foreach (string file in files)
                 {
-                    NewName = "0" + NewName;
-                    iPos = NewName.IndexOf(" ");
-                    iNumber = NewName.Substring(0, iPos);
+                    newFile = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
+                    iPos = newFile.IndexOf(" ");
+                    int iNumber = int.Parse(newFile.Substring(0, iPos));
+                    if (iNumber > iMaxNumber) iMaxNumber = iNumber;
                 }
-                if (file != FilePath + "\\" + NewName)
-                    Directory.Move(file, FilePath + "\\" + NewName);
+
+                iLength = iMaxNumber.ToString().Length;
+
+                foreach (string file in files)
+                {
+                    string NewName = file.Substring(file.LastIndexOf("\\") + 1, file.Length - file.LastIndexOf("\\") - 1);
+                    iPos = NewName.IndexOf(" ");
+                    string iNumber = NewName.Substring(0, iPos);
+                    while (iLength > iNumber.ToString().Length)
+                    {
+                        NewName = "0" + NewName;
+                        iPos = NewName.IndexOf(" ");
+                        iNumber = NewName.Substring(0, iPos);
+                    }
+                    if (file != FilePath + "\\" + NewName)
+                        Directory.Move(file, FilePath + "\\" + NewName);
+                }
+
             }
+            catch (Exception ex)
+            {
+                SetStatusBarText(Idiomas.Error + ": " + ex.Message,3000);
+                SetStatusBarText(Idiomas.Listo);
+            }
+
         }
 
         private static uint CalculateFileCrc32(string filePath)
@@ -519,22 +538,27 @@ namespace kbTools
 
         private void SetStatusBarText(string strText)
         {
+            SetStatusBarText(strText, 1150);
+        }
+
+        private void SetStatusBarText(string strText, int milliSecond)
+        {
             if (InvokeRequired)
             {
                 this.Invoke((MethodInvoker)delegate {
                     SetStatusBarText(strText);
                     statusStrip.Refresh();
-                    Thread.Sleep(1150);
+                    Thread.Sleep(milliSecond);
                 });
             }
             else
             {
                 toolStripStatusLabel.Text = strText;
                 statusStrip.Refresh();
-                Thread.Sleep(1150);
+                Thread.Sleep(milliSecond);
             }
-        }
 
+        }
         private void ProgressBarVisble(bool bVisible)
         {
             toolStripProgressBar.Visible = bVisible;
@@ -572,7 +596,7 @@ namespace kbTools
             SetStatusBarText(Idiomas.Listo);
         }
 
-        private void españolToolStripMenuItem_Click(object sender, EventArgs e)
+        private void EspañolToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Thread.CurrentThread.CurrentCulture = new CultureInfo("sp-CL");
             Thread.CurrentThread.CurrentUICulture = new CultureInfo("sp-CL");
@@ -581,7 +605,7 @@ namespace kbTools
             SetLanguage();
         }
 
-        private void inglesToolStripMenuItem_Click(object sender, EventArgs e)
+        private void InglesToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
             Thread.CurrentThread.CurrentUICulture = new CultureInfo("en-US");
@@ -589,7 +613,7 @@ namespace kbTools
             SetLanguage();
         }
 
-        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        private void SalirToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Close();
         }
@@ -602,27 +626,27 @@ namespace kbTools
                                           RecycleFlags.SHERB_NOSOUND);
         }
 
-        private void btnEmptyRecycleBin_Click(object sender, EventArgs e)
+        private void BtnEmptyRecycleBin_Click(object sender, EventArgs e)
         {
             EmptyRecycleBin(this.Handle);
         }
     }
 
-    public class tag
+    public class Tag
     {
         public string id_tag { get; set; }
         public string input_tag { get; set; }
         public string output_tag { get; set; }
     }
 
-    public class month
+    public class Month
     {
         public string id_month { get; set; }
         public string pos_month { get; set; }
         public string name_month { get; set; }
     }
 
-    public class musicExt
+    public class MusicExt
     {
         public string id_music { get; set; }
         public string ext_music { get; set; }

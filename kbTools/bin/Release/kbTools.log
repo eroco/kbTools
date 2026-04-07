@@ -4309,3 +4309,57 @@
 2026-04-02 10:38:39,670 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
 2026-04-02 10:38:41,216 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Queen - A Kind Of Magic (Deluxe Version) (2011) MP3
 2026-04-02 10:38:41,259 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Queen - A Kind Of Magic (Deluxe Version) (2011) FLAC
+2026-04-02 17:38:39,325 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 17:38:41,868 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Queen_-_Sheer_Heart_Attack_(Deluxe_Version)_(2011)_MP3
+2026-04-02 17:38:42,639 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Queen_-_Sheer_Heart_Attack_(Deluxe_Version)_(2011)_FLAC
+2026-04-02 17:38:56,282 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 17:38:56,350 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-04-02 17:38:56,463 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 17:38:56,838 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-04-02 17:38:58,385 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Queen - Sheer Heart Attack (Deluxe Version) (2011) MP3
+2026-04-02 17:39:49,558 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 17:39:49,662 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-04-02 17:39:51,312 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Queen - Sheer Heart Attack (Deluxe Version) (2011) FLAC
+2026-04-02 17:40:25,662 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 17:40:25,704 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 17:40:27,327 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Queen_-_Queen_II_(Collector's_Edition_Boxset)_(2026)_MP3
+2026-04-02 17:40:27,391 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Queen_-_Queen_II_(Collector's_Edition_Boxset)_(2026)_FLAC
+2026-04-02 17:40:58,310 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 17:40:58,320 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-04-02 17:40:59,933 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Queen - Queen II (Collector's Edition Boxset) (2026) MP3
+2026-04-02 17:40:59,955 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Queen - Queen II (Collector's Edition Boxset) (2026) FLAC
+2026-04-02 17:45:16,309 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 17:45:16,320 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-04-02 17:45:16,648 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 17:45:16,680 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 17:45:18,171 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Queen_-_Jazz_(Deluxe_Edition)_(2011)_MP3
+2026-04-02 17:45:18,208 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Queen_-_Jazz_(Deluxe_Edition)_(2011)_FLAC
+2026-04-02 17:45:42,298 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 17:45:42,464 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-04-02 17:45:44,271 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Queen - Jazz (Deluxe Edition) (2011) FLAC
+2026-04-02 17:45:44,294 [1] INFO System.Windows.Forms.Form - File to Add Music extension:E:\Downloads\Queen - Jazz (Deluxe Edition) (2011) MP3
+2026-04-02 17:52:21,798 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 17:52:23,387 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_First_Steps_With_Linux
+2026-04-02 17:53:59,002 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 17:54:00,862 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Logic_For_Dummies.sanet
+2026-04-02 18:17:57,523 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 18:17:57,651 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 18:17:59,316 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Queen_-_The_Game_(Deluxe_Edition)_(2011)_MP3
+2026-04-02 18:21:59,512 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 18:21:59,599 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 18:22:01,301 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Logic For Dummies\Logic_For_Dummies.sanet.st.pdf
+2026-04-02 18:22:42,841 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 18:22:44,367 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Logic For Dummies\Logic_For_Dummies.pdf
+2026-04-02 18:23:13,619 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 18:23:13,655 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-02 18:23:15,338 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\NeWuPgRaDe.O.W.E.O.T.I-SKIDROW.SANET
+2026-04-02 18:33:27,767 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 18:33:27,833 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-04-02 18:33:27,989 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 18:33:28,035 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel4
+2026-04-02 18:33:29,929 [1] INFO System.Windows.Forms.Form - Folder to renumering files:K:\Dev\Icons\5G Network Icon Set\01. AI
+2026-04-02 18:33:59,884 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 18:33:59,901 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-04-02 18:33:59,978 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-02 18:34:00,069 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel4
+2026-04-02 18:34:01,648 [1] INFO System.Windows.Forms.Form - Folder to renumering files:K:\Dev\Icons\5G Network Icon Set\02. EPS
