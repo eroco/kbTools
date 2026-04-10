@@ -261,3 +261,88 @@
 2026-04-02 18:54:44,295 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
 2026-04-02 18:54:44,528 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel4
 2026-04-02 18:54:46,041 [1] INFO System.Windows.Forms.Form - Folder to renumering files:E:\Downloads\Master Linux Automation Python Bash\Master Linux Automation Python Bash
+2026-04-10 10:24:04,671 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-10 10:24:04,780 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-04-10 10:24:06,383 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Anime\OXO3D - Nier Automata A2 NSFW - 3D Print Model
+2026-04-10 10:25:03,924 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-04-10 10:25:05,853 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK
+2026-04-10 10:25:53,213 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-10 10:25:53,246 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-04-10 10:25:55,042 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack
+2026-04-10 10:27:07,559 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-10 10:27:07,589 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-04-10 10:27:09,168 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack
+2026-04-10 10:28:55,872 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-10 10:28:55,902 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-04-10 10:28:57,448 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost
+2026-04-10 10:32:36,122 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\+NSFW.txt
+2026-04-10 10:32:36,736 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\+NSFW.url
+2026-04-10 10:32:36,860 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\Miniatures.stl
+2026-04-10 10:32:36,969 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\pack.stl
+2026-04-10 10:32:37,095 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\Pad.STL
+2026-04-10 10:32:37,215 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\STL Anime.txt
+2026-04-10 10:32:37,324 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\STL Boost.jpg
+2026-04-10 10:32:37,435 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\STL Boost.txt
+2026-04-10 10:32:37,543 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\STL Comics.txt
+2026-04-10 10:32:37,716 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\STL Free.stl
+2026-04-10 10:32:37,840 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\STL Game.txt
+2026-04-10 10:32:37,964 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\STL Me.url
+2026-04-10 10:32:38,091 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\SW(1).txt
+2026-04-10 10:32:38,262 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\SW.txt
+2026-04-10 10:32:38,521 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\Telegram Channel Free Models.stl
+2026-04-10 10:32:38,656 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Boost\WH-WG.txt
+2026-04-10 10:32:58,482 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-10 10:32:58,494 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-04-10 10:33:00,158 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack
+2026-04-10 10:33:16,180 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\+NSFW.txt
+2026-04-10 10:33:16,685 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\+NSFW.url
+2026-04-10 10:33:16,796 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\Miniatures.txt
+2026-04-10 10:33:16,908 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\Print.STL
+2026-04-10 10:33:17,029 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\Star Wars.txt
+2026-04-10 10:33:17,140 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\Star Wars.url
+2026-04-10 10:33:17,264 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\STL 3D Print.url
+2026-04-10 10:33:17,374 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\STL Anime.txt
+2026-04-10 10:33:17,485 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\STL Comics.txt
+2026-04-10 10:33:17,661 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\STL Free.stl
+2026-04-10 10:33:17,784 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\STL Game.txt
+2026-04-10 10:33:17,895 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\STL Me.url
+2026-04-10 10:33:18,103 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\SW.stl
+2026-04-10 10:33:18,238 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\SW.txt
+2026-04-10 10:33:18,346 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\Vehicle 3D Model.url
+2026-04-10 10:33:18,456 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\Vehicles3D.txt
+2026-04-10 10:33:18,565 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\Warhammer - WarGame STL 3D Print.txt
+2026-04-10 10:33:18,691 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\Warhammer - WarGame.url
+2026-04-10 10:33:18,801 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\WH-WG.txt
+2026-04-10 10:33:19,029 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pack\WH40k.stl
+2026-04-10 10:33:27,057 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-10 10:33:27,152 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-04-10 10:33:28,771 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK
+2026-04-10 10:33:28,914 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\+NSFW.txt
+2026-04-10 10:33:29,025 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\+NSFW.url
+2026-04-10 10:33:29,136 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\3D Print Models STL.url
+2026-04-10 10:33:29,264 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Base.stl
+2026-04-10 10:33:29,373 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Board.stl
+2026-04-10 10:33:29,498 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Miniatures STL.url
+2026-04-10 10:33:29,612 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Miniatures.STL
+2026-04-10 10:33:29,720 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Miniatures.txt
+2026-04-10 10:33:29,833 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Pad.STL
+2026-04-10 10:33:29,940 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Print.STL
+2026-04-10 10:33:30,050 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\PrintMe.txt
+2026-04-10 10:33:30,160 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Star Wars.txt
+2026-04-10 10:33:30,270 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Star Wars.url
+2026-04-10 10:33:30,379 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL 3D Print.txt
+2026-04-10 10:33:30,490 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL 3D Print.url
+2026-04-10 10:33:30,601 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Anime.txt
+2026-04-10 10:33:30,712 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Comics.txt
+2026-04-10 10:33:30,881 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Free.stl
+2026-04-10 10:33:30,997 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Game.txt
+2026-04-10 10:33:31,106 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\STL Me.url
+2026-04-10 10:33:31,301 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\SW.stl
+2026-04-10 10:33:31,421 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\SW.txt
+2026-04-10 10:33:31,533 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Torso.STL
+2026-04-10 10:33:31,641 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Vehicle 3D Model.url
+2026-04-10 10:33:31,752 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Vehicles3D.txt
+2026-04-10 10:33:31,861 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Warhammer - WarGame STL 3D Print.txt
+2026-04-10 10:33:31,971 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Warhammer - WarGame.url
+2026-04-10 10:33:32,081 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\WH-WG.txt
+2026-04-10 10:33:32,308 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\WH40k.stl

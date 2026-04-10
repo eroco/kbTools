@@ -269,9 +269,9 @@ namespace kbTools
 
             foreach (Tag mytag in tags)
             {
-                if (oldName.Contains(mytag.input_tag))
+                if (oldName.Contains(mytag.Input_Tag))
                 {
-                    oldName = oldName.Replace(mytag.input_tag, mytag.output_tag);
+                    oldName = oldName.Replace(mytag.Input_Tag, mytag.Output_Tag);
                 }
 
             }
@@ -307,10 +307,10 @@ namespace kbTools
 
             foreach (Month mymonth in months)
             {
-                if (newName.Contains(mymonth.name_month))
+                if (newName.Contains(mymonth.Name_Month))
                 {
-                    newName = newName.Replace(mymonth.name_month + " ", "");
-                    string sExtension = "-" + mymonth.pos_month + newName.Substring(newName.LastIndexOf("."), Filename.Length - Filename.LastIndexOf("."));
+                    newName = newName.Replace(mymonth.Name_Month + " ", "");
+                    string sExtension = "-" + mymonth.Pos_Month + newName.Substring(newName.LastIndexOf("."), Filename.Length - Filename.LastIndexOf("."));
                     newName = newName.Replace(newName.Substring(newName.LastIndexOf("."), Filename.Length - Filename.LastIndexOf(".")), sExtension);
                     File.Move(Filename, origPath + newName);
                 }
@@ -341,10 +341,10 @@ namespace kbTools
                 string sExt = file.Extension.Substring(1, file.Extension.Length - 1);
                 foreach (MusicExt mExt in musicEXts)
                 {
-                    if (sExt.Contains(mExt.ext_music.ToLower()))
+                    if (sExt.Contains(mExt.Ext_Music.ToLower()))
                     {
-                        strExtToAssign = "[" + mExt.ext_music + "]";
-                        strExt = mExt.ext_music;
+                        strExtToAssign = "[" + mExt.Ext_Music + "]";
+                        strExt = mExt.Ext_Music;
                     }
                 }
             }
@@ -514,7 +514,7 @@ namespace kbTools
 
                 foreach (Hexa hexa in ListHexaValues)
                 {
-                    if (iCRC.ToString("X") == hexa.valueHexa)
+                    if (iCRC.ToString("X") == hexa.ValueHexa)
                     {
                         log.Info("File to Erase:" + file);
                         try
@@ -637,27 +637,27 @@ namespace kbTools
 
     public class Tag
     {
-        public string id_tag { get; set; }
-        public string input_tag { get; set; }
-        public string output_tag { get; set; }
+        public string Id_Tag { get; set; }
+        public string Input_Tag { get; set; }
+        public string Output_Tag { get; set; }
     }
 
     public class Month
     {
-        public string id_month { get; set; }
-        public string pos_month { get; set; }
-        public string name_month { get; set; }
+        public string Id_Month { get; set; }
+        public string Pos_Month { get; set; }
+        public string Name_Month { get; set; }
     }
 
     public class MusicExt
     {
-        public string id_music { get; set; }
-        public string ext_music { get; set; }
+        public string Id_Music { get; set; }
+        public string Ext_Music { get; set; }
     }
 
     public class Hexa
     {
-        public string idhexa { get; set; }
-        public string valueHexa { get; set; }
+        public string IdHexa { get; set; }
+        public string ValueHexa { get; set; }
     }
 }
