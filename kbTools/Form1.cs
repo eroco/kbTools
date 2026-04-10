@@ -76,10 +76,12 @@ namespace kbTools
                 if (e.Data.GetData(DataFormats.FileDrop) is string[] filePaths && filePaths.Length > 0)
                 {
                     SetStatusBarText(Idiomas.Limpieza);
+                    
                     foreach (string filePath in filePaths)
                     {
                         log.Info("Clean Filename:" + filePath);
-                        if (chkRecursive.Checked)
+                        FileAttributes attr = File.GetAttributes(filePath);
+                        if (chkRecursive.Checked & ((attr & FileAttributes.Directory) == FileAttributes.Directory))
                         {
                             string[] files = Directory.GetFiles(filePath, "*.*");
                             foreach (string file in files)
@@ -559,6 +561,7 @@ namespace kbTools
             }
 
         }
+
         private void ProgressBarVisble(bool bVisible)
         {
             toolStripProgressBar.Visible = bVisible;
