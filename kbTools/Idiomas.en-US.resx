@@ -153,10 +153,16 @@
   <data name="Ocupado" xml:space="preserve">
     <value>Busy</value>
   </data>
+  <data name="Recursivo" xml:space="preserve">
+    <value>Recursive</value>
+  </data>
   <data name="Renumeracion" xml:space="preserve">
     <value>Renumbering files in folder</value>
   </data>
   <data name="Trabajando" xml:space="preserve">
     <value>Working</value>
+  </data>
+  <data name="Vaciar" xml:space="preserve">
+    <value>Empty Bin</value>
   </data>
 </root>

@@ -153,10 +153,16 @@
   <data name="Ocupado" xml:space="preserve">
     <value>Ocupado</value>
   </data>
+  <data name="Recursivo" xml:space="preserve">
+    <value>Recursivo</value>
+  </data>
   <data name="Renumeracion" xml:space="preserve">
     <value>Renumerando archivos en una carpeta</value>
   </data>
   <data name="Trabajando" xml:space="preserve">
     <value>Trabajando</value>
+  </data>
+  <data name="Vaciar" xml:space="preserve">
+    <value>Vaciar</value>
   </data>
 </root>

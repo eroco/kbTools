@@ -169,6 +169,15 @@ namespace kbTools {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a Recursivo.
+        /// </summary>
+        public static string Recursivo {
+            get {
+                return ResourceManager.GetString("Recursivo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a Renumerando archivos en una carpeta.
         /// </summary>
         public static string Renumeracion {
@@ -183,6 +192,15 @@ namespace kbTools {
         public static string Trabajando {
             get {
                 return ResourceManager.GetString("Trabajando", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Vaciar.
+        /// </summary>
+        public static string Vaciar {
+            get {
+                return ResourceManager.GetString("Vaciar", resourceCulture);
             }
         }
     }

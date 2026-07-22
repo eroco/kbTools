@@ -1,1 +1,3 @@
-﻿/.vs/kbTools/v15
+﻿/bin
+/obj
+/*.log

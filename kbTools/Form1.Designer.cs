@@ -154,7 +154,7 @@ namespace kbTools
             // chkLogCRC32
             // 
             this.chkLogCRC32.AutoSize = true;
-            this.chkLogCRC32.Location = new System.Drawing.Point(816, 37);
+            this.chkLogCRC32.Location = new System.Drawing.Point(694, 170);
             this.chkLogCRC32.Name = "chkLogCRC32";
             this.chkLogCRC32.Size = new System.Drawing.Size(81, 17);
             this.chkLogCRC32.TabIndex = 9;
@@ -229,6 +229,8 @@ namespace kbTools
             // chkRecursive
             // 
             this.chkRecursive.AutoSize = true;
+            this.chkRecursive.Checked = true;
+            this.chkRecursive.CheckState = System.Windows.Forms.CheckState.Checked;
             this.chkRecursive.Location = new System.Drawing.Point(49, 170);
             this.chkRecursive.Name = "chkRecursive";
             this.chkRecursive.Size = new System.Drawing.Size(74, 17);

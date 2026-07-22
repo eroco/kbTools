@@ -11,6 +11,7 @@ using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Threading;
 using System.Globalization;
+using System.Linq;
 
 namespace kbTools
 {
@@ -233,6 +234,10 @@ namespace kbTools
 
                         ProgressBarVisble(true);
                         CleanPath(filePath, ListhexaValues);
+                        if (CheckEmptinessFolder(filePath))
+                        {
+                            Directory.Delete(filePath);
+                        }
                         ProgressBarVisble(false);
 
                     }
@@ -277,13 +282,20 @@ namespace kbTools
             }
             if (!oldName.Equals(origName))
             {
-                if (File.Exists(Filename))
+                try
                 {
-                    File.Move(Filename, oldPath + "\\" + oldName);
+                    if (File.Exists(Filename))
+                    {
+                        File.Move(Filename, oldPath + "\\" + oldName);
+                    }
+                    else
+                    {
+                        Directory.Move(Filename, oldPath + "\\" + oldName);
+                    }
                 }
-                else
+                catch (Exception ex)
                 {
-                    Directory.Move(Filename, oldPath + "\\" + oldName);
+                    SetStatusBarText("Error: " + ex.Message, 2300);
                 }
             }
 
@@ -535,6 +547,26 @@ namespace kbTools
             foreach (string folder in folders)
             {
                 CleanPath(folder, ListHexaValues);
+                if (CheckEmptinessFolder(folder))
+                {
+                    Directory.Delete(folder);
+                }
+            }
+        }
+
+        private bool CheckEmptinessFolder(string FilePath)
+        {
+            var dInfo = new DirectoryInfo(FilePath);
+
+            long sizeFolder = dInfo.EnumerateFiles("*", SearchOption.AllDirectories).Sum(fi => fi.Length);        
+
+            if (sizeFolder == 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
             }
         }
 
@@ -595,7 +627,9 @@ namespace kbTools
                     inglesToolStripMenuItem.Text = Idiomas.MenuIngles + " \u2611";
                     break;
             }
-                
+            chkRecursive.Text = Idiomas.Recursivo;
+            cmdExit.Text = Idiomas.MenuSalir;
+            btnEmptyRecycleBin.Text = Idiomas.Vaciar;
             SetStatusBarText(Idiomas.Listo);
         }
 
@@ -635,6 +669,8 @@ namespace kbTools
         }
     }
 
+    #region Classes
+
     public class Tag
     {
         public string Id_Tag { get; set; }
@@ -660,4 +696,6 @@ namespace kbTools
         public string IdHexa { get; set; }
         public string ValueHexa { get; set; }
     }
+
+    #endregion
 }

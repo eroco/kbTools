@@ -346,3 +346,115 @@
 2026-04-10 10:33:31,971 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\Warhammer - WarGame.url
 2026-04-10 10:33:32,081 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\WH-WG.txt
 2026-04-10 10:33:32,308 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Star Wars\SW3D - Yoda Sculpture\STL PACK\WH40k.stl
+2026-04-13 09:03:14,728 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-13 09:03:14,780 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-04-13 09:03:16,492 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model
+2026-04-13 09:04:32,454 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-04-13 09:04:34,092 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model
+2026-04-13 09:04:34,248 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\3D Models.txt
+2026-04-13 09:04:34,248 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='AC4BEC2B
+2026-04-13 09:04:34,357 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\3D Models.url
+2026-04-13 09:04:34,357 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='800DAF9A
+2026-04-13 09:04:34,496 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\Dodge Challenger SRT - Lowpoly Low-poly 3D model.blend
+2026-04-13 09:04:34,496 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='3217156D
+2026-04-13 09:04:34,611 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\Dodge Challenger SRT - Lowpoly Low-poly 3D model.blend1
+2026-04-13 09:04:34,611 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='D0521443
+2026-04-13 09:04:34,736 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\Dodge Challenger SRT - Lowpoly Low-poly 3D model.fbx
+2026-04-13 09:04:34,736 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='13E1DF55
+2026-04-13 09:04:34,855 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\Dodge Challenger SRT - Lowpoly Low-poly 3D model.mtl
+2026-04-13 09:04:34,856 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='600A391E
+2026-04-13 09:04:35,003 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\Dodge Challenger SRT - Lowpoly Low-poly 3D model.obj
+2026-04-13 09:04:35,003 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='D536234E
+2026-04-13 09:04:35,124 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\mat0_c.jpg
+2026-04-13 09:04:35,124 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='597453B
+2026-04-13 09:04:35,246 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\mat0_g.jpg
+2026-04-13 09:04:35,246 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='AB0A150A
+2026-04-13 09:04:35,374 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\mat0_n.jpg
+2026-04-13 09:04:35,374 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='E2D3D2B2
+2026-04-13 09:04:35,497 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\mat0_r.jpg
+2026-04-13 09:04:35,497 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='5295709C
+2026-04-13 09:04:35,619 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\mat0_s.jpg
+2026-04-13 09:04:35,620 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='133F5702
+2026-04-13 09:04:35,731 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\mat1_c.jpg
+2026-04-13 09:04:35,731 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='D2410EAD
+2026-04-13 09:04:35,839 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\mat1_g.jpg
+2026-04-13 09:04:35,840 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='4F337AD0
+2026-04-13 09:04:35,965 [1] DEBUG System.Windows.Forms.Form - File:N:\3D Figures\Cars -  Airplanes\Dodge Challenger SRT - Lowpoly Low-poly 3D model\mat1_r.jpg
+2026-04-13 09:04:35,966 [1] DEBUG System.Windows.Forms.Form - http://api_kbtools/addHexa.php?hexa='C34716BE
+2026-04-13 11:55:03,072 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-13 11:55:04,820 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Caribbeancom.26.04.12.Ichika.Himari.Special.Lesson.After.School.Enjoying.A.Girls.Natural.G.Cup.Breasts.sanet
+2026-04-13 11:55:44,154 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-13 11:55:44,314 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-13 11:55:46,021 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Caribbeancom.26.04.12.Ichika.Himari.Special.Lesson.After.School.Enjoying.A.Girls.Natural.G.Cup.Breasts.sanet
+2026-04-13 12:00:22,030 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-13 12:00:23,396 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Caribbeancom.26.04.12.Ichika.Himari.Special.Lesson.After.School.Enjoying.A.Girls.Natural.G.Cup.Breasts.sanet
+2026-04-13 12:54:19,369 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-04-13 12:57:10,038 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-13 12:57:10,102 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-04-13 15:12:08,120 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-13 15:12:09,394 [1] INFO System.Windows.Forms.Form - Clean Filename:O:\RS\Video\Futanari\Hentaied Futanari Pack\HentaiedFutanariPacksanet.st
+2026-04-13 15:13:40,000 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-04-13 15:13:40,010 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-13 15:13:40,035 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-04-13 15:13:40,101 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-13 15:13:40,134 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-13 15:13:41,819 [1] INFO System.Windows.Forms.Form - Clean Filename:O:\RS\Video\Futanari\Hentaied Futanari Pack\HentaiedFutanariPacksanet.st.Screens
+2026-04-13 15:16:20,612 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-13 15:16:20,634 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-13 15:16:22,332 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Hentaied.25.03.28.Rae.Lil.Black.The.Monster.Slayer.1080p.sanet
+2026-04-13 15:22:31,495 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-13 15:22:31,711 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-13 15:22:32,191 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-13 15:22:37,561 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-13 15:22:37,750 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-13 15:22:39,444 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Vampired.25.05.16.Emiri.Momota.Josephine.Jackson.And.Maria.Nagai.1080p.sanet
+2026-04-16 18:17:49,117 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-16 18:17:49,300 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-16 18:17:50,904 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\DOWNLO~1\SANETS~2.X26\SANETS~1.X26\SANETS~1.MKV
+2026-04-22 10:25:20,173 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-22 10:25:20,246 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-04-22 10:25:20,373 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-22 10:25:20,421 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-04-22 10:25:21,987 [1] INFO System.Windows.Forms.Form - Clean Filename:Y:\Building_Your_Own_PC_Complete_Manual_-_June_2024.pdf
+2026-04-22 10:26:49,645 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-22 10:26:49,741 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel4
+2026-04-22 10:26:50,031 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-22 10:26:50,079 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel3
+2026-04-22 10:26:50,390 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-04-22 10:26:50,495 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel2
+2026-04-23 13:43:32,001 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-05-01 11:06:40,929 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-05-01 11:06:41,055 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-05-01 11:06:42,925 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\DC\Yosh Studios - Life Size Superman Robot - 3D Print Model\STL
+2026-05-01 11:06:44,668 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\DC\Yosh Studios - Life Size Superman Robot - 3D Print Model\STL\3D Models.txt
+2026-05-01 11:06:44,848 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\DC\Yosh Studios - Life Size Superman Robot - 3D Print Model\STL\DesireFX.me.stl
+2026-05-01 11:06:44,970 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\DC\Yosh Studios - Life Size Superman Robot - 3D Print Model\STL\Pad.STL
+2026-05-01 11:06:45,147 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\DC\Yosh Studios - Life Size Superman Robot - 3D Print Model\STL\STL Free.stl
+2026-05-01 11:06:45,395 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\DC\Yosh Studios - Life Size Superman Robot - 3D Print Model\STL\Telegram Channel Free Models.stl
+2026-05-01 11:06:45,519 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\DC\Yosh Studios - Life Size Superman Robot - 3D Print Model\STL\Telegram- Contact CG Model.url
+2026-05-01 11:56:47,150 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-05-01 11:56:48,824 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_Scriptorium.Master.of.Manuscripts-TENOKE
+2026-05-01 12:02:56,827 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-05-01 12:02:57,013 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-05-01 12:02:58,536 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_Scriptorium.Master.of.Manuscripts-TENOKE
+2026-05-01 12:03:18,314 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-05-01 12:03:18,329 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-05-01 12:03:19,866 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Scriptorium.Master.of.Manuscripts-TENOKE\sanet.st_Scriptorium.Master.of.Manuscripts-TENOKE
+2026-05-01 12:04:19,805 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-05-01 12:04:19,903 [1] INFO System.Windows.Forms.Form - OnDragEnter Panel1
+2026-05-01 12:04:21,480 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-Cloud_Computing_For_Beginners_-_23rd_Edition
+2026-05-01 12:04:46,801 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-Mac_For_Beginners_-_23rd_Edition
+2026-05-01 12:04:46,899 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-WhatsApp_For_Beginners_-_20th_Edition
+2026-05-01 12:04:46,966 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st_The_Complete_TypeScript_Course_From_Beginner_to_Advance
+2026-05-01 12:04:47,009 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st.Australian_Hi-Fi_-_Issue_545
+2026-05-01 12:04:47,054 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\Sanet.st.Open_Source_for_You_-_May
+2026-05-01 12:04:47,096 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-macOS Tahoe Complete Manual - 7th Edition 2026
+2026-05-01 12:04:47,135 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-Instagram For Beginners - 20th Edition 2026
+2026-05-01 12:04:47,169 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-Apple Watch For Beginners - 9th Edition 2026
+2026-05-01 12:04:47,221 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-iPhone For Beginners - 24th Edition 2026
+2026-05-01 12:04:47,273 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-Apple Watch Complete Manual - 14th Edition 2026
+2026-05-01 12:04:47,316 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-iPad for Beginners - 23rd Edition 2026
+2026-05-01 12:04:47,357 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-Android For Beginners - 23rd Edition 2026
+2026-05-01 12:04:47,396 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-iPhone Complete Manual - 13rd Edition 2026
+2026-05-01 12:04:47,449 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-Copilot For Beginners - 21st Edition 2026
+2026-05-01 12:04:47,533 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-Apple Intelligence For Beginners - 1st Edition, 2026
