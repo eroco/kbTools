@@ -458,3 +458,10 @@
 2026-05-01 12:04:47,396 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-iPhone Complete Manual - 13rd Edition 2026
 2026-05-01 12:04:47,449 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-Copilot For Beginners - 21st Edition 2026
 2026-05-01 12:04:47,533 [1] INFO System.Windows.Forms.Form - Clean Filename:E:\Downloads\sanet.st-Apple Intelligence For Beginners - 1st Edition, 2026
+2026-08-10 17:49:03,010 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-08-10 17:49:04,766 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Movies - TV\Gmeyer3D – The Road to El Dorado – Chel – 3D Print Model STL
+2026-08-10 17:49:05,562 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Movies - TV\Gmeyer3D – The Road to El Dorado – Chel – 3D Print Model STL\3D Models.txt
+2026-08-10 17:50:07,424 [1] INFO System.Windows.Forms.Form - OnDragEnter Form
+2026-08-10 17:50:07,720 [1] INFO System.Windows.Forms.Form - OnDragEnter CRC
+2026-08-10 17:50:09,527 [1] INFO System.Windows.Forms.Form - Folder to clean:N:\3D Figures\Movies - TV\Gmeyer3D – The Road to El Dorado – Chel – 3D Print Model STL\Render
+2026-08-10 17:50:09,707 [1] INFO System.Windows.Forms.Form - File to Erase:N:\3D Figures\Movies - TV\Gmeyer3D – The Road to El Dorado – Chel – 3D Print Model STL\Render\3D Models.txt

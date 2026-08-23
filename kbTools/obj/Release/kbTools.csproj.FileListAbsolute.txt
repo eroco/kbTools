@@ -65,3 +65,4 @@ E:\Source\repos\kbTools\kbTools\obj\Release\en-US\kbTools.resources.dll
 E:\Source\repos\kbTools\kbTools\obj\Release\kbTools.csproj.CopyComplete
 E:\Source\repos\kbTools\kbTools\obj\Release\kbTools.exe
 E:\Source\repos\kbTools\kbTools\obj\Release\kbTools.pdb
+E:\Source\repos\kbTools\kbTools\obj\Release\kbTools.csprojAssemblyReference.cache

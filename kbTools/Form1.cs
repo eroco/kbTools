@@ -19,6 +19,8 @@ namespace kbTools
     {
         private static readonly ILog log = LogManager.GetLogger(typeof(Form));
         private int progessbar = 0;
+        private int iCount = 0;
+
         string Language = ConfigurationManager.AppSettings["Language"];
 
         [Flags]
@@ -238,8 +240,9 @@ namespace kbTools
                         {
                             Directory.Delete(filePath);
                         }
-                        ProgressBarVisble(false);
 
+                        ProgressBarVisble(false);
+                        SetStatusBarText(Idiomas.ArchivosBorrados + iCount.ToString(),3000);
                     }
 
                 }
@@ -512,6 +515,7 @@ namespace kbTools
   
         private void CleanPath(string FilePath, List<Hexa> ListHexaValues)
         {
+            iCount = 0;
             string[] files = Directory.GetFiles(FilePath, "*.*");
 
             foreach (string file in files)
@@ -532,6 +536,7 @@ namespace kbTools
                         try
                         {
                             File.Delete(file);
+                            iCount++;
                         }
                         catch (Exception ex)
                         {

@@ -61,6 +61,15 @@ namespace kbTools {
         }
         
         /// <summary>
+        ///   Busca una cadena traducida similar a Archivos Borrados: .
+        /// </summary>
+        public static string ArchivosBorrados {
+            get {
+                return ResourceManager.GetString("ArchivosBorrados", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Busca una cadena traducida similar a Corrigiendo Meses.
         /// </summary>
         public static string CorrigiendoMeses {
